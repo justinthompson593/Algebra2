@@ -10,4 +10,5 @@
   - Graphing lines and quadratic functions
   - Function evaluation and composition
   - Identifying the domain of given functions
+  - Inverse functions 
   - Solutions: Written solutions in this directory, video in progress
