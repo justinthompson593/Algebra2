@@ -11,4 +11,4 @@
   - Function evaluation and composition
   - Identifying the domain of given functions
   - Inverse functions 
-  - Solutions: Written solutions in this directory, video in progress
+  - Solutions: Written solutions in this directory, video here https://youtu.be/SV-uFis1LSY
