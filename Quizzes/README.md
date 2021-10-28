@@ -10,4 +10,4 @@
   - Graphing lines and quadratic functions
   - Function evaluation and composition
   - Identifying the domain of given functions
-  - Solutions: 
+  - Solutions: video in progress
