@@ -6,3 +6,8 @@
   - Questions on set and interval notation
   - Solutions: https://youtu.be/aggw-FLA0jo
 - Quiz 0.1
+  - Identifying functions as ordered pairs and graphs
+  - Graphing lines and quadratic functions
+  - Function evaluation and composition
+  - Identifying the domain of given functions
+  - Solutions: 
