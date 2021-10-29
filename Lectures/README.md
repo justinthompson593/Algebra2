@@ -12,6 +12,13 @@ Lectures [Playlist](https://youtube.com/playlist?list=PLxooDkHFi8M1ezIgUbNYcjiJF
   - Introducing the functions Dom(f) and Ran(f) 
   - Refining our definitions of domain and range
   - Using graphs of functions to determine domain and range
+- Lecture 3 - Functions and Lines
+  - [Video](https://youtu.be/2xZCoBxb9uI)
+  - Review domain and range
+  - Introduce restricted/defined domains 
+  - Lines as functions and why y=mx + b is all we need
+  - Finding equations of lines given 1.) slope & a point and 2.) two points
+  - How to compute an inverse function 
 
 
 
