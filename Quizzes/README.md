@@ -3,7 +3,7 @@
 Quiz Solutions [Playlist](https://youtube.com/playlist?list=PLxooDkHFi8M1nRgeGjYzXrmMii6r5fXQT)
 
 - Quiz 0 
-  - Introduces the Naturals, Integers, Rationals, Reals, and Complex number systems
+  - Introduces the Naturals, Integers, Rationals, Reals, and Complex numbers as sets
   - Introduces sets of real numbers, union, set difference
   - Questions on set and interval notation
   - Solutions [video](https://youtu.be/aggw-FLA0jo)
