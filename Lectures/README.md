@@ -1,6 +1,6 @@
 # Lectures
 
-Lectures Playlist: https://youtube.com/playlist?list=PLxooDkHFi8M1ezIgUbNYcjiJF9nD4QJb1
+Lectures [Playlist](https://youtube.com/playlist?list=PLxooDkHFi8M1ezIgUbNYcjiJF9nD4QJb1)
 
 - Lecture 1 - Functions
   - [Video](https://youtu.be/2jc2kaafnM8)
