@@ -1,0 +1,198 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[lmargin=1in,rmargin=1in,tmargin=1in,bmargin=1in]{geometry}
+%For systems of equations
+\usepackage{systeme}
+%For figures
+\usepackage{graphicx}
+\usepackage{subcaption}
+% -------------------
+% Packages
+% -------------------
+\usepackage{
+	amsmath,			% Math Environments
+	amssymb,			% Extended Symbols
+	enumerate,		    % Enumerate Environments
+	graphicx,			% Include Images
+	lastpage,			% Reference Lastpage
+	multicol,			% Use Multi-columns
+	multirow			% Use Multi-rows
+}
+
+
+% -------------------
+% Font
+% -------------------
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+
+
+% -------------------
+% Commands
+% -------------------
+\newcommand{\quiz}[2]{\noindent\textbf{Name: }\makebox[8cm]{\hrulefill} \hfill \textbf{Algebra II} \\  \textbf{Date: } \hfill \textbf{Quiz #2}\\}
+
+\newcommand{\prob}{\noindent\textbf{Problem. }}
+\newcounter{problem}
+\newcommand{\problem}{
+	\stepcounter{problem}%
+	\noindent \textbf{Problem \theproblem. }%
+}
+\newcommand{\pspace}{\par\vspace{\baselineskip}}
+\newcommand{\ds}{\displaystyle}
+
+
+% -------------------
+% Header & Footer
+% -------------------
+\usepackage{fancyhdr}
+
+\fancypagestyle{pages}{
+	%Headers
+	\fancyhead[L]{}
+	\fancyhead[C]{}
+	\fancyhead[R]{}
+\renewcommand{\headrulewidth}{0pt}
+	%Footers
+	\fancyfoot[L]{}
+	\fancyfoot[C]{}
+	\fancyfoot[R]{}
+\renewcommand{\footrulewidth}{0.0pt}
+}
+\headheight=0pt
+\footskip=14pt
+
+\pagestyle{pages}
+
+
+% -------------------
+% Content
+% -------------------
+\begin{document}
+\quiz{\#}{0.1}
+
+
+% Question
+%\prob This is an unnumbered problem. \pspace
+
+
+% Question 1
+\problem The following sets of points are in the form $(x,y)$ where the $x$ values are considered as inputs and $y$ values are outputs and thereby define a rule. Determine which of these define functions and for those that don't, explain why.\\
+	\begin{enumerate}[(a)]
+	\item $\left\{ (1,2), (2,3), (3,4), (4,5)\right\}$
+	\item $\left\{ (4,2), (3,3), (3,2), (1,5)\right\}$
+	\item $\left\{ (2.01,1.32), (2.02,3.1), (2.03,2.4), (2.001,5.7)\right\}$
+	\item $\left\{ (2.01,2.02), (2.02,2.02), (2.03,2.02), (2.001,2.02)\right\}$
+	\item $\left\{ (\text{red},\beta), (\text{green},\gamma), (\text{blue},\alpha), (\text{white},\delta)\right\}$
+	\item $\left\{ (2^3,2), (3,3), (2,3), (8,5)\right\}$
+	\item $\left\{ (2^3,2), (3,3), (2,3), (8,2)\right\}$
+	\end{enumerate} 
+
+\vspace{.5cm}
+
+
+
+% Question 2
+\problem The following graphs define relationships between inputs (on the horizontal, or x, axis) and outputs (on the y axis). Determine which ones define functions and which do not. Briefly explain your choices. \\
+\begin{figure}[h!]
+  \centering
+  \begin{subfigure}[b]{0.3\linewidth}
+    \includegraphics[width=\linewidth]{func1.png}
+     \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.3\linewidth}
+    \includegraphics[width=\linewidth]{func2.png}
+    \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.3\linewidth}
+    \includegraphics[width=\linewidth]{func3.png}
+    \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.3\linewidth}
+    \includegraphics[width=\linewidth]{func4.png}
+     \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.3\linewidth}
+    \includegraphics[width=\linewidth]{func5.png}
+    \caption{}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.3\linewidth}
+    \includegraphics[width=\linewidth]{func6.png}
+    \caption{}
+  \end{subfigure}
+\end{figure}
+
+\newpage
+%\vspace{.5cm}
+
+
+% Question 3
+\problem Graph the following lines and write its slope. Be sure to label your axes, and if applicable, the $x$ and $y$ intercepts. \\
+\begin{enumerate}[(a)]
+	\item $y = -2x$
+	\item $y = 5$
+	\item $y = 2x + 3$
+	\item $x + y = 1$
+	\item $x = -3$
+	\item $2x - 3y = 5$
+	\item Do these lines define functions? How do you know? For each line, what's the domain? What's the range?
+\end{enumerate} 
+
+\vspace{.5cm}
+
+
+%Q4
+\problem Graph the following functions. Be sure to label your axes, and if applicable, the axes intercepts. \\
+\begin{enumerate}[(a)]
+	\item $f(x) = x^2$
+	\item $g(z) = -z^2$
+	\item $h(a) = a^2 - 4$
+	\item $y(x) = \frac{1}{2}x - 1$
+	\item $z(t) = 1 - t^2$ (Hint: consider $g(t) = -t^2$ from above. Then $g(t) + 1 = -t^2 + 1 = 1 - t^2$ is just a shift of $g$ up by 1.)
+	\item $q(p) = -\frac{3}{2}p + 1$
+\end{enumerate}
+
+\vspace{.5cm}
+
+%Q5
+\problem Let $f(x) = x + 1$, $g(x) = \sqrt{x}$, and $h(x) = \frac{1}{x}$. Compute the following.\\
+\begin{enumerate}[(a)]
+	\item $f(-2)$
+	\item $g(4)$
+	\item $h(0)$
+	\item $f(g(x))$
+	\item $g(f(x))$
+	\item $h(g(f(x)))$
+	\item $f(h(g(x)))$
+	\item For (d) - (g) state the domain of each function in interval notation. (Example: the domain of $h(f(x)) = \frac{1}{x+1}$ would be all real numbers such that the denominator, $x+1$, is not $0$. So we must have $x+1 \not = 0$, therefore $x \not = -1$. Then all real numbers except for $-1$ are allowable inputs to $h(f(x))$. In interval notation, we have $(-\infty, -1) \cup (-1, \infty)$.)
+	\item $f^{-1}(x)$
+	\item $g^{-1}(x)$
+	\item $h^{-1}(x)$
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

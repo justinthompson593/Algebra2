@@ -1,0 +1,215 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[lmargin=1in,rmargin=1in,tmargin=1in,bmargin=1in]{geometry}
+%For systems of equations
+\usepackage{systeme}
+
+
+% -------------------
+% Packages
+% -------------------
+\usepackage{
+	amsmath,			% Math Environments
+	amssymb,			% Extended Symbols
+	enumerate,		    % Enumerate Environments
+	graphicx,			% Include Images
+	lastpage,			% Reference Lastpage
+	multicol,			% Use Multi-columns
+	multirow			% Use Multi-rows
+}
+
+
+% -------------------
+% Font
+% -------------------
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+
+
+% -------------------
+% Commands
+% -------------------
+\newcommand{\quiz}[2]{\noindent\textbf{Name: }\makebox[8cm]{\hrulefill} \hfill \textbf{Algebra II} \\  \textbf{Date: } \hfill \textbf{Quiz #2}\\}
+
+\newcommand{\prob}{\noindent\textbf{Problem. }}
+\newcounter{problem}
+\newcommand{\problem}{
+	\stepcounter{problem}%
+	\noindent \textbf{Problem \theproblem. }%
+}
+\newcommand{\pspace}{\par\vspace{\baselineskip}}
+\newcommand{\ds}{\displaystyle}
+
+
+% -------------------
+% Header & Footer
+% -------------------
+\usepackage{fancyhdr}
+
+\fancypagestyle{pages}{
+	%Headers
+	\fancyhead[L]{}
+	\fancyhead[C]{}
+	\fancyhead[R]{}
+\renewcommand{\headrulewidth}{0pt}
+	%Footers
+	\fancyfoot[L]{}
+	\fancyfoot[C]{}
+	\fancyfoot[R]{}
+\renewcommand{\footrulewidth}{0.0pt}
+}
+\headheight=0pt
+\footskip=14pt
+
+\pagestyle{pages}
+
+
+% -------------------
+% Content
+% -------------------
+\begin{document}
+\quiz{\#}{0}
+
+
+% Question
+%\prob This is an unnumbered problem. \pspace
+\noindent In our class we will use the following notation to denote various sets.
+\begin{align*}
+\mathbb{N} &= \{0,1,2,...\}  \quad &\textrm{the set of Natural numbers} \\
+\mathbb{Z} &= \{...,-2,-1,0,1,2,...\}  \quad &\textrm{the set of Integers} \\
+\mathbb{Q} &= \left\{\frac{a}{b} \, | \, a,b\in \mathbb{Z}, \, b \ne 0 \right\}  \quad &\textrm{the set of Rational numbers} \\
+\mathbb{R} &= \overline{\mathbb{Q}} \quad &\textrm{the Real numbers} \\
+\mathbb{C} &= \left\{x + iy \, | \, x,y\in \mathbb{R}, \, i = \sqrt{-1}\right\}  \quad &\textrm{the Complex numbers} \\
+\end{align*}
+\noindent Don't let the notation on $\mathbb{Q}$, $\mathbb{R}$, and $\mathbb{C}$ scare you. The set after $\mathbb{Q}$ just says that it's the set of all fractions of the form $\frac{a}{b}$ such that $a$ and $b$ are integers. The "$\in$" means "is in the set." So $\frac{-7}{3}$ is a rational number because both $-7$ and $3$ are integers. Similarly $2$ is a rational number because $2 = \frac{2}{1} = \frac{4}{2} = \frac{14}{7}$ (and so on). In fact, \textit{every} integer is technically a rational number because it can be written as itself divided by $1$. Pick your favorite integer, say $97$, and we can write it as $\frac{97}{1}$. Since $97$ is an integer and $1$ is an integer (so $97, 1 \in \mathbb{Z}$), then $\frac{97}{1} = 97$ is a rational number by definition. And of course division by zero is not defined so $b \ne 0$. (I can explain that if you'd like.) \\
+
+\noindent You'll notice that the Natural numbers are contained in the Integers. Since $\mathbb{N} = \{0,1,...\}$ and $\mathbb{Z} = \{...,-2,-1,0,1,2,...\}$, we have $\mathbb{Z} = \{...,-2, -1, \{0,1,...\}\} = \{...,-2,-1, \mathbb{N}\}$. When a set contains another, we say that one is a subset of the other. Thus the natural numbers are a subset of the integers and we write $\mathbb{N} \subset \mathbb{Z}$. And since -- as we said above -- every integer is a rational number, the integers are a subset of the rational numbers ($\mathbb{Z} \subset \mathbb{Q}$). This gives us $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q}$. \\
+
+\noindent Then we come to $\overline{\mathbb{Q}}$. What's with that bar, right? The "real" numbers are notoriously hard to define. You won't see a rigorous definition of a real number unless you're a math major at a university and you're a junior or a senior. And when you finally \textit{do} see a definition, it's pretty wishy washy. For our purposes, we'll think of the set of real numbers, $\mathbb{R}$, as the closure of the rational numbers. Now what do I mean by that? \\
+
+\noindent Imagine that we took all the rational numbers and laid them out in order on a line. So $0$ would be in the middle with $\frac{-1}{2}$ to its left, $\frac{7}{19}$ to its right, followed eventually by $\frac{2001}{17}$...you get the idea. It turns out that this "line" would actually be a completely disconnected set of points. No points would "touch" each other. There would be infinitely many missing points. This can be more easily seen if you think of first laying out every integer. Clearly there would be gaps. If you went to grab one of the integers, you might miss them and hit a gap between them. You'd think that by adding in all the rationals you'd fill in the gaps...but you'd be wrong: they're just as disconnected at the integers. \\
+
+\noindent You may have heard of "irrational" numbers. These are simply numbers which cannot be written as the ratio of two integers. Notice that "all numbers that \textit{can} be written as the ratio of two integers" is \textit{precisely} the set $\mathbb{Q} = \left\{\frac{a}{b} \, | \, a,b\in \mathbb{Z}\right\} $. What could these irrational numbers be? They can't be the natural numbers. Every natural number, say $n$, can be written as $\frac{n}{1}$. Ditto with the integers. \\
+
+\noindent It turns out that every rational number can be written as either a terminating decimal, or a repeating decimal. For instance, $\frac{5}{4} = 1.25$ is a terminating decimal and so is $\frac{3}{1} = 3 = 3.0$. Any terminating decimal, say $1.414$, can be written as a ratio of two integers: $1.414 = \frac{1414}{1000}$. The ratio $\frac{1}{3} = 0.333... = 0.\overline{3}$ is a repeating decimal because, well just divide $1$ by $3$ and see for yourself. So we've encountered repeating decimals when we divide certain integers by each other, but it turns out that if you're given \textit{any} repeating decimal, you can write it as a ratio of two integers. Given $0.125125... = 0.\overline{125}$, you can work out that $0.\overline{125} = \frac{125}{999}$. The repeating part doesn't need to start immediately after the decimal place either. Given $1.414212121... = 1.414\overline{21}$ you can find that $1.414\overline{21} = \frac{46669}{33000}$. \\
+
+\noindent So we've seen that any rational number, when divided, will result in a terminating or repeating decimal. It's also easy to show that any terminating decimal can be written as a rational number (just move the decimal to the end and divide by $1$ followed by as many zeros as places you moved as I did with $1.414 = \frac{1414}{1000}$). Repeating decimals are a little more tricky and a proof is beyond the scope of our class (unless you really want to see it!) but trust me when I say that \textit{any} repeating decimal can be written as the ratio of two integers. Then the rational numbers are \textit{exactly} those numbers which can be written as terminating or repeating decimals. And terminating or repeating decimals are \textit{exactly} the rational numbers. It follows that the "irrational" numbers, those numbers which \textit{can't} be written as a ratio of two integers, are \textit{precisely} the numbers whose decimals never terminate and don't repeat. But do such numbers even exist? \\
+
+\noindent Here we've stumbled upon a long standing debate among mathematicians and philosophers of mathematics and we're not about to jump into those deep waters. I do want to say that there are those who deny the existence of "irrational" numbers and they have pretty good reasons for doing so. But most mathematicians, physicists, logicians, and the like affirm the existence of these nonterminating and nonrepeating decimal numbers. And there are also good reasons for doing so; we've known since ancient times that $\sqrt{2}$ can't be written as the ratio of two integers, and it certainly seems to exist since it's the length of the hypotenuse of a right triangle with height and base equal to $1$. (There are some great counterarguments to it's actual existence, but I've rambled long enough.) \\
+
+\noindent Finally we come to the concept of closure. Going back to our image of all the rational numbers laid out in a line, infinitely scattered and separated. If you add in all the irrational numbers, you close up all the gaps. That's what we mean by the "closure" of a set. The real numbers are the closure of the rationals. Symbolically, $\mathbb{R} = \overline{\mathbb{Q}}$. Put differently we can say that \{the rationals\} $+$ \{the irrationals\} $=$ \{the reals\}. You'll notice that we don't use a nifty bold letter for the irrationals like we do for all the others. That's a convention. We could define one and say $\mathbb{I} =$ \{the irrationals\}, but we won't after this paragraph since no one else does. If we need to refer to the irrationals symbolically as a set, we'll use the "set difference" notation. Since $\mathbb{Q} \cup \mathbb{I} = \mathbb{R}$, we can write $\mathbb{I} = \mathbb{R} - \mathbb{Q}$. So the irrational numbers are the set you get when you start with the reals and remove all the rationals from it. Note that we used $\cup$ and not $+$ to denote the "addition" of sets. It's how we join sets together. This is called "union." So $ \{1, 3, 5\} \cup \{2, 4, 6\} = \{1,2,3,4,5,6\}$. Similarly, $\{1,2,3,4\} - \{1,4\} = \{2,3\}$. \\
+
+\noindent Then there are the complex numbers, $\mathbb{C}$. It is the smallest algebraically closed field. We'll talk about fields and algebraic closure at another time. The motivation for defining these comes from people trying to solve certain equations. If you let $a,b \in \mathbb{Z}$ (if you let $a$ and $b$ be integers) we can ask what sort of "thing" we get when we solve an equation like this $bx + a = 0$ for $x$. Let's see.
+
+\newpage
+
+$$ bx + a = 0 $$ 
+$$ bx = -a$$
+$$ x = \frac{-a}{b}$$
+
+\noindent So the set of solutions to equations of the form $bx+a=0$ with $a,b \in \mathbb{Z}$ is exactly $\mathbb{Q}$. That is, the "sort of thing" you get when you solve $bx+a=0$ is a rational number. What if we took it up a notch and considered equations of the form $ax^2 +bx + c = 0$ with $a,b,c \in \mathbb{Z}$? We'll go through solutions to this kind of equation in \textit{painstaking} detail in our class, but for now let's just consider a couple of simple examples. Suppose $a = 1, \, b = 0,$ and $c = -2$. Then $ax^2 +bx + c = 0$ becomes
+
+$$ x^2 - 2 = 0 $$
+$$ x^2 = 2 $$
+$$ \sqrt{x^2} = \pm \sqrt{2} $$
+$$ x = \pm \sqrt{2} $$
+
+\noindent Just by considering this simple equation, we've already opened up the door for irrational numbers. That is, in order to solve equations of this form we have to include irrational numbers. Then the set of solutions to equations of the form  $ax^2 +bx + c = 0$ should be the reals, right? Or at least, the real numbers should be sufficient to solve every equation of the form $ax^2 +bx + c = 0$, right? Let $a = 1, \, b = 0$, and $c = 1$. Then $ax^2 +bx + c = 0$ becomes
+
+$$ x^2 + 1 = 0 $$
+$$ x^2 = -1$$
+$$ \sqrt{x^2} = \pm \sqrt{-1}$$
+$$ x = \pm \sqrt{-1}$$
+
+\noindent Uh oh. What's that?! $\sqrt{-1}$?! A number that, when multiplied by \textit{itself}, gives you $-1$? But $ (2)(2) = 4$. And $(-2)(-2) = 4$. You always get a positive number when you multiply a number by itself. Well, mathematicians said, "let's imagine that there \textit{is} such a number." We define $i = \sqrt{-1}$ as the imaginary unit. \\
+
+\noindent You might wonder what kind of crazy objects we'll have to dream up in order to solve equations of the form $ax^3 + bx^2 + cx + d = 0$ or $a_nx^n + a_{n-1}x^{n-1} + \dots + a_2x^2 + a_1x + a_0 = 0$. But it turns out that all we need is $i$. That is, every equation of the form $a_nx^n + a_{n-1}x^{n-1} + \dots + a_2x^2 + a_1x + a_0 = 0$ (where the $a_i$'s are integers) has a solution that can be written as $u+iv$ where $u$ and $v$ are real numbers. That's precisely the definition of $\mathbb{C}$. \\
+
+\noindent Remember how the integers are contained in the rationals by doing that stupid trick where you take any integer, say $z$, and write it as $\frac{z}{1}$? We can do the same thing to contain all the reals in the complex numbers by taking any real number, $x$, and writing it as $x + i0$. By construction, the reals contain the rationals. I mean, that's how we defined them. We said take all the rationals, append the irrationals, and you get the reals. So $\mathbb{Q} \subset \mathbb{R}$. And with our dumb multiply-$i$-by-zero trick, we get that $\mathbb{R} \subset \mathbb{C}$. Altogether we have $\mathbb{N} \subset \mathbb{Z}  \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}$.
+
+\vspace{0.5cm}
+
+% Question 1
+\problem The set of real numbers between $0$ and $1$ but not including $0$ or $1$ can be written in "set notation" as $\{x \, | \, 0 < x < 1\}$. In "interval notation" we write this set as $(0,1)$. The set of real numbers between $0$ and $1$ including $0$ but not $1$ can be written as $\{x \, | \, 0 \le x < 1\}$. In interval notation we write this set as $[0,1)$. The set of real numbers between $0$ and $1$ not including $0$ but including $1$ can be written as $\{x \, | \, 0 < x \le 1\}$. In interval notation we write this set as $(0,1]$. \\
+	\begin{enumerate}[(a)]
+	\item Write $[0, 1]$ in set notation.
+	\item Write $ \{ x \, | \, \pi < x \le 7.2 \}$ in interval notation.
+	\item Write "the set of all real numbers between $-2$ and $1$, not including endpoints" in set and interval notation.
+	\end{enumerate} 
+
+\vspace{.5cm}
+
+
+
+% Question 2
+\problem The set of real numbers less than $1$ can be written as $ \{ x \, | \, x < 1 \}$ and $( -\infty, 1) $. The set of real numbers greater than or equal to $\pi$ can be written as $ \{ x \, | \, \pi \le x \}$ and $[ \pi, \infty)$. Notice that we never "include" infinity in an interval with the "hard" brackets, "$[$" or "$]$". \\
+\begin{enumerate}[(a)]
+	\item Write $(0, \infty)$ in set notation.
+	\item Write $ \{ x \, | \, x < 10^{10^{10}} \}$ in interval notation (do \textit{not} try to write out that ridiculously large number).
+	\item Write "the set of all real numbers less than or equal to $-7$" in set and interval notation.
+\end{enumerate} 
+
+\vspace{.5cm}
+
+
+
+\problem Suppose we want to describe the set of all real numbers strictly between $0$ and $1$ except for $\frac{1}{2}$. It would be like taking the interval $(0,1)$ and pulling out the single number $\frac{1}{2}$. This would leave us with two intervals, namely $\left(0, \frac{1}{2}\right)$ and $\left(\frac{1}{2}, 1\right)$. In interval notation we'd have to specify that these two intervals are one set by writing it as  $\left(0, \frac{1}{2}\right) \cup \left(\frac{1}{2}, 1\right)$. In set notation, we'd write $\left\{ x \, | \, 0 < x < \frac{1}{2} \; \text{or} \; \frac{1}{2} < x < 1 \right\}$. \\
+\begin{enumerate}[(a)]
+	\item Write $(-\infty, 0) \cup (0, \infty)$ in set notation.
+	\item Write $ \{ x \, | \,  -2 \le x < 1 \; \text{or} \; 2 \le x \}$ in interval notation.
+	\item Write "the set of all real numbers greater than $-2$, less than or equal to $1.2$, and not including any integers" in set and interval notation. (Hint: draw it out on the number line and "pick out" the integers.) 
+\end{enumerate} 
+
+\vspace{.5cm}
+
+
+\problem The absolute value function is defined as 
+$$ |x| =  \left\{
+        \begin{array}{ll}
+            -x & \quad x < 0 \\
+            x & \quad  0 \leq x
+        \end{array}
+        \right
+        $$
+\noindent This is a fancy way of saying "make x positive if it's not already." So if we want to evaluate $| -2|$ we see that since $-2 < 0$ we use the first of the two definitions, giving us $|-2| = -(-2) = 2$. We take the second definition to evaluate $|3| = 3$ since $0 \le 3$. We also say that the absolute value of $x$ is the magnitude of $x$. Then the set of all reals whose magnitude is equal to 2, $\{ x \, | \quad |x| = 2 \}$, are the two numbers $2$ and $-2$. That is, $\{ x \, | \quad |x| = 2 \} = \{-2,2\}$. Consider the set $\{ x \, | \quad |x| < 2\}$. This is the set of all real numbers whose magnitude is strictly less than $2$. So who's in this set? Well, $1$ is since $|1| = 1 < 2$. And so is $-1$ because $|-1| = 1 < 2$. So both $1.999$ and $-1.999$ are in it. In fact everything strictly between $-2$ and $2$ are in the set. That is 
+$$ \{ x \, | \quad |x| < 2\} = \{ x \, | \quad -2 < x < 2\} = (-2,2)$$
+\noindent Notice that $|x| < 2$ means the same thing as $-2 < x < 2$. This illustrates a very important principle that we'll encounter again and again: given any $a \in \mathbb{R}$ with $0<a$ and any expression $E$, 
+\begin{equation} |E| < a \Leftrightarrow -a < E < a.\end{equation}
+That $\Leftrightarrow$ means "if and only if" and you can think about it as saying that two things are equivalent. That is, saying that $|E| < a$ means exactly the same thing as $-a < E < a$. Therefore
+$$ |x - 1| < 0.1 \Leftrightarrow$$
+$$ -0.1 < x-1 < 0.1 \Leftrightarrow$$
+$$ 1-0.1 < x < 1 + 0.1 \Leftrightarrow$$
+$$0.9 < x < 1.1$$
+\noindent So $ |x - 1| < 0.1$ is a fancy way of saying $0.9 < x < 1.1$. They mean exactly the same thing. Therefore $\{ x \, | \quad |x-1|<0.1\} = \{ x \, | \quad 0.9<x<1.1\} = (0.9,1.1)$. Did you happen to notice the little (1) to the right of the line that read "$ |E| < a \Leftrightarrow -a < E < a$" above? That means it's important...like something you might want to remember and master. There's another below with a little (2) to it's right. From now on, we can refer back to it by simply saying "we know from (1) on Quiz 0 that such and such."  Okay, moving on to the questions. 
+\begin{enumerate}[(a)]
+	\item Write $\{ x \, | \quad |x-1| \le 0.1\}$ in interval notation. (And yes, $\le$ works the same as $<$ in (1) above.)
+	\item Write $\{ x \, | \quad |2x-1| < 2\}$ in interval notation.
+	\item Write $\{ x \, | \quad |1-2x| < 2\}$ in interval notation (remember that multiplying or dividing by a negative number flips the inequality sign!).
+\end{enumerate} 
+
+\vspace{.5cm}
+
+
+
+\problem Consider the set $\{ x \, | \quad 2 < |x|\}$, the set of all real numbers whose magnitude is strictly greater than $2$. Who's in this set? Is $2$ in it? Well no, since the magnitude of $2$ \textit{is} $2$, so it's not strictly greater than $2$. But $2.1$ is. And so is $2.0001$. And $2.0000001$ and so on. (Not to mention all the numbers \textit{obviously} bigger like $3, \pi, 4.7, 171, 10^{10^{10}}, \dots)$ What about $0$? Well no because $2 \not < 0 = |0|$. Neither is $-1$ nor $-2$ since $2 \not < 1 = |-1|$ and $2 \not < 2 = |-2|$. But $-2.001$ should work. $2 < 2.001 = |-2.001|$. Similarly, all the negative numbers with bigger magnitudes than 2, like $-3, -\pi, -4.7, -171, -10^{10^{10}}, \dots)$ will work. So we have
+$$ \{ x \, | \quad 2 < |x|\} = \{ x \, | \quad x < -2 \; \text{or} \; 2 < x\} = (-\infty, -2) \cup (2, \infty)$$
+\noindent Then $2 < |x|$ means the same thing as $x < -2 \; \text{or} \; 2 < x$. We arrive at another principle that we'll use all the time: given any $a \in \mathbb{R}$ with $0<a$ and any expression $E$, 
+\begin{equation}a < |E| \Leftrightarrow E < -a \; \text{or} \; a < E. \end{equation}
+\begin{enumerate}[(a)]
+	\item Write $\{ x \, | \quad 0.1 \le |x-1| \}$ in interval notation.
+	\item Write $\{ x \, | \quad 2 <  |2x-1|\}$ in interval notation.
+	\item Write $\{ x \, | \quad 2 \le |1-2x|\}$ in interval notation (remember that multiplying or dividing by a negative number flips the inequality sign!).
+\end{enumerate} 
+
+\vspace{.5cm}
+
+% Question 4
+%\problem Solve the system. \\
+%	\[
+%		\sysdelim.. \systeme{2x + y - 2z = 3, x - y + z = 1, x - 7y + 4z = 2}
+%	\]
+%	\vspace{3cm}
+
+
+
+
+\end{document}
