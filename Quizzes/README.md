@@ -1,6 +1,6 @@
 # Quizzes
 
-Quiz Solutions Playlist: https://youtube.com/playlist?list=PLxooDkHFi8M1nRgeGjYzXrmMii6r5fXQT
+Quiz Solutions [Playlist](https://youtube.com/playlist?list=PLxooDkHFi8M1nRgeGjYzXrmMii6r5fXQT)
 
 - Quiz 0 
   - Introduces the Naturals, Integers, Rationals, Reals, and Complex number systems
