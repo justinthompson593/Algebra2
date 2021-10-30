@@ -19,7 +19,10 @@
   - Lines as functions and why y=mx + b is all we need
   - Finding equations of lines given 1.) slope & a point and 2.) two points
   - How to compute an inverse function 
-
+= #### Lecture 3.1 - Supplemental Material
+  - [Video](https://youtu.be/LZ1XXlfsjLA)
+  - Proof that our method is equivalent to the two point formula
+  - Examples of finding the equation of a line given two points
 
 
 
