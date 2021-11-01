@@ -23,6 +23,10 @@
   - [Video](https://youtu.be/LZ1XXlfsjLA)
   - Proof that our method is equivalent to the two point formula
   - Examples of finding the equation of a line given two points
-
+- #### Lecture 4 - Inverse Functions and Perpendicular Slopes
+  - [Video](https://youtu.be/7Os-yMh1gm4)
+  - Review composition of functions
+  - Checking an inverse by composition 
+  - Perpendicular slopes
 
 
