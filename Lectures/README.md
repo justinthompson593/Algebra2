@@ -28,5 +28,9 @@
   - Review composition of functions
   - Checking an inverse by composition 
   - Perpendicular slopes
+- #### Lecture 5 - Intro to Systems of Equations
+  - [Video](https://youtu.be/GDsJ_sWwYjs)
+  - Observations about equations and operations with equations
+  - In this lecture we use reasoning to lead us to a general method for solving systems of linear equations (to be discussed later). Our goal is to see that the method we're going to develop is on solid footing, that we can justify it, and that we believe the steps we'll be taking. 
 
 
