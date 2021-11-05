@@ -37,5 +37,11 @@
   - General method for solving systems of linear equations
   - Introduce augmented matrices 
   - Reduced row echelon form and back substitution 
+- #### Lecture 6.1 - Worked Examples
+  - [Video](https://youtu.be/s9fKdGApGls) 
+  - We solve 3 systems of equations:
+    - 3 equations with 3 unknowns (without fractions)
+    - 3 equations with 3 unknowns (with fractions)
+    - 4 equations with 4 unknowns
 
 
