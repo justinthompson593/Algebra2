@@ -43,5 +43,9 @@
     - 3 equations with 3 unknowns (without fractions)
     - 3 equations with 3 unknowns (with fractions)
     - 4 equations with 4 unknowns
-
+- #### Lecture 7 - Applications and Examples
+  - [Video](https://youtu.be/j3nhZyxmk1Q)
+  - Applications of systems of linear equations
+  - Turning word problems into systems of equations 
+  - To find n unknowns, we need n equations 
 
