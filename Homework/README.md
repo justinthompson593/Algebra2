@@ -9,3 +9,6 @@
 - #### Homework 2
   - Chapter 4 Section 4 Exercises (p. 178-9) 
   - #1 - #19 odd, #23, #25, and #28
+- #### Homework 3
+  - Chapter 4 Section 5 Exercises (p. 181-2)
+  - #1 - #15 odd, and #18
