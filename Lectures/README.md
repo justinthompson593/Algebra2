@@ -48,4 +48,8 @@
   - Applications of systems of linear equations
   - Turning word problems into systems of equations 
   - To find n unknowns, we need n equations 
-
+- #### Lecture 8 - Dependent and Inconsistent Systems
+  - [Video]()
+  - Solution to previous challenge problem 
+  - Inconsistent systems (those with no solution)
+  - Dependent systems (those with infinitely many solutions) 
