@@ -49,7 +49,7 @@
   - Turning word problems into systems of equations 
   - To find n unknowns, we need n equations 
 - #### Lecture 8 - Dependent and Inconsistent Systems
-  - [Video]()
+  - [Video](https://youtu.be/qQ136cHJMU4)
   - Solution to previous challenge problem 
   - Inconsistent systems (those with no solution)
   - Dependent systems (those with infinitely many solutions) 
