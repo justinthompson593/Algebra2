@@ -53,3 +53,8 @@
   - Solution to previous challenge problem 
   - Inconsistent systems (those with no solution)
   - Dependent systems (those with infinitely many solutions) 
+- #### Lecture 8.1 - Linear Combinations and Linear Dependence
+  - [Video](https://youtu.be/2YziuPeeJhk) 
+  - Introduce linear combinations and linear dependence
+  - We expand on the comment in the ticker from Lecture 8
+  - Examples of how linear combinations of rows lead to a row of zeros after row reduction
