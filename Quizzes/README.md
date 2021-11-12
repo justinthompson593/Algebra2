@@ -17,7 +17,7 @@
   - Written solutions in this directory
 - #### Quiz 1
   - Take home quiz
-  - Cumulative Review (p. 201-3)
+  - Chapters 1 - 4 Cumulative Review (p. 201-3)
     - #1-33
     - #35-39
     - #42-66
