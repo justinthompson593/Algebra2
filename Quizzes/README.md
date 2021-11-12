@@ -15,3 +15,17 @@
   - Identifying the domain of given functions
   - Inverse functions 
   - Written solutions in this directory
+- #### Quiz 1
+  - Take home quiz
+  - Cumulative Review (p. 201-3)
+    - #1-33
+    - #35-39
+    - #42-66
+  - Special Instructions:
+    - #31-33 and #35-39: Write in interval notation
+    - #46-47: Graph using any method you want
+    - $48-49: Write in canonical form (y = mx + b)
+    - #54: Hint: Let t = time in years
+    - #56-58: Solve using any method you want
+    - #59: Hint: Define your variables first
+    - #63-64: Try to solve. If inconsistent or dependent, stop and say so. 
