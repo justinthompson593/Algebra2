@@ -58,3 +58,7 @@
   - Introduce linear combinations and linear dependence
   - We expand on the comment in the ticker from Lecture 8
   - Examples of how linear combinations of rows lead to a row of zeros after row reduction
+- #### Lecture 9 - Systems of Inequalities
+  - [Video](https://youtu.be/knX6tAoSKk4)
+  - Graphing systems of inequalities 
+  - Instructions for Quiz 1
