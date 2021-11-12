@@ -1,6 +1,6 @@
 # Algebra II
 
-Class materials can be found in the directories above. Links to the lectures and descriptions can be found in the [Lectures](https://github.com/justinthompson593/Algebra2/tree/main/Lectures) directory. Quizzes, their solutions, and links to solution videos are in the [Quizzes](https://github.com/justinthompson593/Algebra2/tree/main/Quizzes) directory. Certain homework assignments and solutions are posted in the [Homework](https://github.com/justinthompson593/Algebra2/tree/main/Homework) directory.
+Class materials can be found in the directories above. Links to the lectures (posted on YouTube) and descriptions can be found in the [Lectures](https://github.com/justinthompson593/Algebra2/tree/main/Lectures) directory. Quizzes, their solutions, and links to solution videos are in the [Quizzes](https://github.com/justinthompson593/Algebra2/tree/main/Quizzes) directory. Certain homework assignments and solutions are posted in the [Homework](https://github.com/justinthompson593/Algebra2/tree/main/Homework) directory.
 
 We are using the textbook by Smith, Stanley A., et al. *Algebra 2 with Trigonometry.* Prentice Hall, 2006. 
 
