@@ -3,6 +3,7 @@
 ### Quiz Solutions [Playlist](https://youtube.com/playlist?list=PLxooDkHFi8M1nRgeGjYzXrmMii6r5fXQT)
 
 - #### Quiz 0 
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/1b38a37cc477dfb2858eab684e1b97c4731f1673/Quizzes/Quiz0.pdf) to .pdf quiz
   - [Video](https://youtu.be/aggw-FLA0jo) solutions
   - Introduces the Naturals, Integers, Rationals, Reals, and Complex numbers as sets
   - Introduces sets of real numbers, union, set difference
