@@ -62,3 +62,8 @@
   - [Video](https://youtu.be/knX6tAoSKk4)
   - Graphing systems of inequalities 
   - Instructions for Quiz 1
+- #### Lecture 9.1 - Wrapping Up Systems of Equations
+  - [Video](https://youtu.be/_GBI6NWwTC4)
+  - Proof that any point satisfying two linear equations satisfies their sum
+  - 3D graphing to illustrate the concept
+  - Visualizing our matrix algorithm with 3D graphing
