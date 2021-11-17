@@ -67,3 +67,8 @@
   - Proof that any point satisfying two linear equations satisfies their sum
   - 3D graphing to illustrate the concept
   - Visualizing our matrix algorithm with 3D graphing
+- #### Lecture 10 - Introduction to Polynomials
+  - [Video](https://youtu.be/iCPhwji_w-4)
+  - Terms and degree of a polynomial expression
+  - Evaluating polynomial functions
+  - Worked examples to mirror homework problems
