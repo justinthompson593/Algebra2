@@ -15,3 +15,8 @@
 - #### Homework 4
   - Chapter 4 Section 6 Exercises (p. 186-7)
   - #1 - #23 odd, #28, and #29
+- #### Homework 5
+  - Chapter 5 Section 1 Exercises (p. 208-9)
+  - #1,3,9,11,13,15,16,17,18,35,36
+  - Chapter 5 Section 2 Exercises (p. 212-13)
+  - #1,5,9,13,15,19,23,27,29,31,33
