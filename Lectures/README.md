@@ -72,3 +72,8 @@
   - Terms and degree of a polynomial expression
   - Evaluating polynomial functions
   - Worked examples to mirror homework problems
+- #### Lecture 11 - Multiplying Polynomials
+  - [Video](https://youtu.be/h5fhrThCsbM)
+  - We convince ourselves that the "rules" for polynomial multiplication are sound
+  - Strategies for multiplying polynomials 
+  - Brief introduction to the binomial theorem 
