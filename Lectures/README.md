@@ -77,3 +77,7 @@
   - We convince ourselves that the "rules" for polynomial multiplication are sound
   - Strategies for multiplying polynomials 
   - Brief introduction to the binomial theorem 
+- #### Lecture 12 - Factoring
+  - [Video](https://youtu.be/DCZPWatCF4Y)
+  - Go over challenge problems from homework
+  - Introduction to factoring polynomials 
