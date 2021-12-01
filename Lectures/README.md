@@ -81,3 +81,7 @@
   - [Video](https://youtu.be/DCZPWatCF4Y)
   - Go over challenge problems from homework
   - Introduction to factoring polynomials 
+- #### Lecture 13 - More Factoring
+  - Sums and differences of cubes
+  - "Unfoiling" quadratics 
+  - Rewriting higher order polynomials as quadratics 
