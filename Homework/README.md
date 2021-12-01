@@ -25,6 +25,10 @@
   - #1, 5, 9, 11, 13, 15, 17, 19, 21, 23, 27, 29, 35, 37, 42, 46
 - #### Homework 7
   - Chapter 5 Section 4 Exercises (p. 222-3)
-  - #19-49 odd (omit #23)
+  - #19 - 49 odd (omit #23)
   - #53, 55, 61, 63, 65, 68
   - Factor #45 and #68 *completely*
+- #### Homework 8
+  - Chapter 5 Section 5 Exercises (p. 227-8)
+  - #1 - 87 every other odd
+  - #91, 93
