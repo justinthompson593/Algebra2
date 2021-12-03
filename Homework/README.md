@@ -32,3 +32,9 @@
   - Chapter 5 Section 5 Exercises (p. 227-8)
   - #1 - 87 every other odd
   - #91, 93
+- #### Homework 9
+  - Chapter 5 Section 6 (p. 231)
+  - #1 - 45 every other odd
+  - Chapter 5 Section 7 (p. 233)
+  - #1 - 45 every other odd
+
