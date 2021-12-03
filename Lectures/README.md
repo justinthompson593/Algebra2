@@ -86,3 +86,7 @@
   - Sums and differences of cubes
   - "Unfoiling" quadratics 
   - Rewriting higher order polynomials as quadratics 
+- #### Lecture 14 - Solving Quadratic Equations by Factoring
+  - [Video](https://youtu.be/4K7pmQPAqDk)
+  - Solutions to challenge problems
+  - Solving quadratic equations by factoring 
