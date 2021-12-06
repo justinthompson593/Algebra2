@@ -37,4 +37,8 @@
   - #1 - 45 every other odd
   - Chapter 5 Section 7 (p. 233)
   - #1 - 45 every other odd
-
+- #### Homework 10
+  - Chapter 6 Section 1 (p. 248-9)
+  - #5 - 37 odd
+  - #40
+  - Connections to Calculus a, b, and c
