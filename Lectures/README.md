@@ -90,3 +90,8 @@
   - [Video](https://youtu.be/4K7pmQPAqDk)
   - Solutions to challenge problems
   - Solving quadratic equations by factoring 
+- #### Lecture 15 - Factoring Rational Expressions 
+  - [Video](https://youtu.be/YTOiTSC0Zc8)
+  - Factoring rational expressions
+  - Introducing the difference quotient 
+  - Finding a derivative given a polynomial function 
