@@ -95,3 +95,8 @@
   - Factoring rational expressions
   - Introducing the difference quotient 
   - Finding a derivative given a polynomial function 
+- #### Lecture 16 - Review for Quiz 2 
+  - [Video](https://youtu.be/LeoLdFELIPY)
+  - Worked homework problem
+  - Difference of squares, sums and differences of cubes
+  - Factoring by grouping
