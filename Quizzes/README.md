@@ -31,3 +31,9 @@
     - #56-58: Solve using any method you want
     - #59: Hint: Define your variables first
     - #63-64: Try to solve. If inconsistent or dependent, stop and say so. 
+- #### Quiz 2
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/9a10c690e4cb41b1c33bedf89daa470fe7eeccc4/Quizzes/Quiz2.pdf) to Quiz2.pdf
+  - [Solutions](https://github.com/justinthompson593/Algebra2/blob/9a10c690e4cb41b1c33bedf89daa470fe7eeccc4/Quizzes/Quiz2Solutions.pdf)
+  - Multiplying polynomials
+  - Factoring polynomials
+  - Applying solving polynomial equations by factoring
