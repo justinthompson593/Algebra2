@@ -42,3 +42,7 @@
   - #5 - 37 odd
   - #40
   - Connections to Calculus a, b, and c
+- #### Homework 11
+  - Chapter 6 Section 2 (p. 253-4)
+  - #7 - 29 odd
+  - #33, 35, 43
