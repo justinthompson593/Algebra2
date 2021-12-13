@@ -100,3 +100,6 @@
   - Worked homework problem
   - Difference of squares, sums and differences of cubes
   - Factoring by grouping
+- #### Lecture 17 - Addition of Polynomial Fractions
+  - [Video](https://youtu.be/-x6mYivLLPU)
+  - Addition and subtraction of rational expressions of polynomials 
