@@ -103,3 +103,8 @@
 - #### Lecture 17 - Addition of Polynomial Fractions
   - [Video](https://youtu.be/-x6mYivLLPU)
   - Addition and subtraction of rational expressions of polynomials 
+- #### Lecture 18 - "Complex" Rational Expressions
+  - [Video](https://youtu.be/4xm_ybSMAhM)
+  - Question from previous homework
+  - Simplifying fractions in fractions
+  - Killing denominators 
