@@ -46,3 +46,7 @@
   - Chapter 6 Section 2 (p. 253-4)
   - #7 - 29 odd
   - #33, 35, 43
+- #### Homework 12
+  - Chapter 6 Section 3 (p. 258) 
+  - #1 - 19 odd
+  - #26, 27, 28
