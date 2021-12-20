@@ -54,4 +54,4 @@
   - Chapter 6 Section 4 (p. 262)
   - #1 - 29 odd
   - #31, 32
-  - *Hint* on #31, write -k - 2 as -(k + 2)
+  - *Hint*: on #31, write -k - 2 as -(k + 2)
