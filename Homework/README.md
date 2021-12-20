@@ -50,3 +50,8 @@
   - Chapter 6 Section 3 (p. 258) 
   - #1 - 19 odd
   - #26, 27, 28
+- #### Homework 13
+  - Chapter 6 Section 4 (p. 262)
+  - #1 - 29 odd
+  - #31, 32
+  - *Hint* on #31, write -k - 2 as -(k + 2)
