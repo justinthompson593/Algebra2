@@ -108,3 +108,7 @@
   - Question from previous homework
   - Simplifying fractions in fractions
   - Killing denominators 
+- #### Lecture 19 - Polynomial Long Division
+  - [Video](https://youtu.be/szcTqtol5mM)
+  - Review long division
+  - Polynomial long division algorithm 
