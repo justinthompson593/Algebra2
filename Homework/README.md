@@ -54,4 +54,6 @@
   - Chapter 6 Section 4 (p. 262)
   - #1 - 29 odd
   - #31, 32
+  - Use polynomial long division for all *except* #1 - 5 and #9
+  - Ignore book instructions for #9 - 13
   - *Hint*: on #31, write -k - 2 as -(k + 2)
