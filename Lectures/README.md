@@ -113,6 +113,7 @@
   - Review long division
   - Polynomial long division algorithm 
 - #### Lecture 20 - Review
+  - [Video](https://youtu.be/L3s27SMnw8k)
   - Review of challenge problems:
     - difference quotient of a rational polynomial 
     - polynomial long division
