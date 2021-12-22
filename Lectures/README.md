@@ -119,3 +119,4 @@
     - polynomial long division
   - Review our work on rational polynomial expressions 
   - How to think about problems involving rational polynomials 
+  - Merry Christmas! 
