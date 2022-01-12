@@ -120,3 +120,9 @@
   - Review our work on rational polynomial expressions 
   - How to think about problems involving rational polynomials 
   - Merry Christmas! 
+- #### Lecture 21 - Solving Rational Equations
+  - [Video](https://youtu.be/CupRB1SIp2s)
+  - Quick review of Lecture 20 material
+  - Solution set notation
+  - How to solve equations with variables in the denominator 
+  - Rational identities 
