@@ -57,3 +57,7 @@
   - Use polynomial long division for all *except* #1 - 5 and #9
   - Ignore book instructions for #9 - 13
   - *Hint*: on #31, write -k - 2 as -(k + 2)
+- #### Homework 14
+  - Chapter 6 Section 6 (p. 269)
+  - #5 - 29 odd (ignore instructions & just solve)
+  - #32, 34
