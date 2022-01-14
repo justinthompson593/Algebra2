@@ -126,3 +126,8 @@
   - Solution set notation
   - How to solve equations with variables in the denominator 
   - Rational identities 
+- #### Lecture 22 - Applications of Rational Equations
+  - [Video](https://youtu.be/4jk24N8Q070)
+  - Review challenge problem #34 from homework
+  - "Job" problems (if A takes x hrs to do a job and B takes y hrs...)
+  - Rate, distance, and time problems
