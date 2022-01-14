@@ -61,3 +61,6 @@
   - Chapter 6 Section 6 (p. 269)
   - #5 - 29 odd (ignore instructions & just solve)
   - #32, 34
+- #### Homework 15
+  - Chapter 6 Section 7 (p. 273-5)
+  - #1 - 29 odd
