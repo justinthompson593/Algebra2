@@ -131,3 +131,8 @@
   - Review challenge problem #34 from homework
   - "Job" problems (if A takes x hrs to do a job and B takes y hrs...)
   - Rate, distance, and time problems
+- #### Lecture 23 - Direct and Inverse Variation 
+  - [Video](https://youtu.be/svC0kNoA6uk)
+  - Review "job" problem
+  - Introduce direct and inverse variation
+  - Examples from the book
