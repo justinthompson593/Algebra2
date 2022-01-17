@@ -64,3 +64,8 @@
 - #### Homework 15
   - Chapter 6 Section 7 (p. 273-5)
   - #1 - 29 odd
+- #### Homework 16
+  - Chapter 6 Section 9 (p. 283-4)
+  - #7, 13
+  - #15 - 29 odd
+  - #31, 32
