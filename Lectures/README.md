@@ -136,3 +136,7 @@
   - Review "job" problem
   - Introduce direct and inverse variation
   - Examples from the book
+- #### Lecture 24 - Useful Websites and Review
+  - Navigating the class [website](https://github.com/justinthompson593/Algebra2)
+  - Using [wolfram alpha](https://www.wolframalpha.com/) and [desmos](https://www.desmos.com/calculator)
+  - Some review questions from chapter 6, sections 6 and 7
