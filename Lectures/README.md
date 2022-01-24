@@ -141,3 +141,8 @@
   - Navigating the class [website](https://github.com/justinthompson593/Algebra2)
   - Using [wolfram alpha](https://www.wolframalpha.com/) and [desmos](https://www.desmos.com/calculator)
   - Some review questions from chapter 6, sections 6 and 7
+- #### Lecture 25 - Proofs
+  - [Video](https://youtu.be/2f3Nrrl2xeg)
+  - Facts about integers, definitions of even and odd
+  - Direct proofs of statement involving even and odd integers
+  - Review proofs involving variation from last homework 
