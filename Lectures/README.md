@@ -144,5 +144,5 @@
 - #### Lecture 25 - Proofs
   - [Video](https://youtu.be/2f3Nrrl2xeg)
   - Facts about integers, definitions of even and odd
-  - Direct proofs of statement involving even and odd integers
+  - Direct proofs of statements involving even and odd integers
   - Review proofs involving variation from last homework 
