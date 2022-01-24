@@ -69,3 +69,10 @@
   - #7, 13
   - #15 - 29 odd
   - #31, 32
+- #### Homework 17
+  - Chapter 6 Section 9 (p. 284)
+  - #31 Prove that if P varies directly with Q then Q varies directly as P
+  - #32 Prove:
+    - If A varies inversely as B then B varies inversely as A
+    - If A varies inversely as B then 1/A varies directly as B
+  - Prove that the product of an even number and an odd number is an even number
