@@ -71,7 +71,7 @@
   - #31, 32
 - #### Homework 17
   - Chapter 6 Section 9 (p. 284)
-  - #31 Prove that if P varies directly with Q then Q varies directly as P
+  - #31 Prove that if P varies directly as Q then Q varies directly as P
   - #32 Prove:
     - If A varies inversely as B then B varies inversely as A
     - If A varies inversely as B then 1/A varies directly as B
