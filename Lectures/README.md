@@ -146,3 +146,9 @@
   - Facts about integers, definitions of even and odd
   - Direct proofs of statements involving even and odd integers
   - Review proofs involving variation from last homework 
+- #### Lecture 26 - Quiz Review
+  - [Video](https://youtu.be/oXt45KzUdQU)
+  - Review for Quiz 3
+  - Adding/Subtracting rational polynomial expressions
+  - Polynomial long division 
+  - Suggested review questions from book
