@@ -41,6 +41,7 @@
 - #### Quiz 3
   - [Link](https://github.com/justinthompson593/Algebra2/blob/f8c8e6a06db7739f8aa6122a47d01cc846e28242/Quizzes/Quiz3.pdf)
   - [Solutions](https://github.com/justinthompson593/Algebra2/blob/f8c8e6a06db7739f8aa6122a47d01cc846e28242/Quizzes/Quiz3Solutions.pdf)
+  - [Video](https://youtu.be/MFIWLIZzy4I) solution for Problem 7
   - Simplifying rational polynomial expressions
   - Sums of rational polynomials
   - Equations involving rational polynomials
