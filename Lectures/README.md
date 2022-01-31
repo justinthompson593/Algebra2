@@ -152,3 +152,9 @@
   - Adding/Subtracting rational polynomial expressions
   - Polynomial long division 
   - Suggested review questions from book
+- #### Lecture 27 - Radicals and Roots
+  - [Video](https://youtu.be/flTmhLavo38)
+  - Principal square root as an inverse function
+  - Radical expressions
+  - Even vs. Odd roots
+  - Domain of functions involving radicals 
