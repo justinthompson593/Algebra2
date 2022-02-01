@@ -76,3 +76,6 @@
     - If A varies inversely as B then B varies inversely as A
     - If A varies inversely as B then 1/A varies directly as B
   - Prove that the product of an even number and an odd number is an even number
+- #### Homework 18
+  - Chapter 7 Section 1 (p. 295-6)
+  - #1 - 53 odd
