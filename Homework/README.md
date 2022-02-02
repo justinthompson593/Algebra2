@@ -79,3 +79,6 @@
 - #### Homework 18
   - Chapter 7 Section 1 (p. 295-6)
   - #1 - 53 odd
+- #### Homework 19
+  - Chapter 7 Section 2 (p. 299-300)
+  - #1 - 39 odd
