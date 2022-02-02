@@ -158,3 +158,10 @@
   - Radical expressions
   - Even vs. Odd roots
   - Domain of functions involving radicals 
+- #### Lecture 28 - Multiplying and Simplifying Radicals
+  - [Video](https://youtu.be/kbw1eBbPWk0)
+  - Review homework questions
+  - Dealing with negatives in radicals
+  - Proof of formula for multiplication of radicals
+  - Applications of the formula
+  - Simplifying expressions
