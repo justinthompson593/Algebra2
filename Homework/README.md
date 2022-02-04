@@ -82,3 +82,7 @@
 - #### Homework 19
   - Chapter 7 Section 2 (p. 299-300)
   - #1 - 39 odd
+- #### Homework 20
+  - Chapter 7 Section 3 (p. 303)
+  - #3, 5, 7, 9, 11, 13, 17, 19, 21, 25, 31, 33, 35, 37, 41, 45, 47, 49, 51
+  - Read 7-4
