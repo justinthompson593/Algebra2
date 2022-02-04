@@ -165,3 +165,7 @@
   - Proof of formula for multiplication of radicals
   - Applications of the formula
   - Simplifying expressions
+- #### Lecture 29 - Operations with Racical Expressions
+  - [Video](https://youtu.be/m-ml6X5e6nQ)
+  - Division of radical expressions
+  - Addition and subtraction of radical expressions
