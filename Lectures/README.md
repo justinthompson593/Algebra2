@@ -169,3 +169,8 @@
   - [Video](https://youtu.be/m-ml6X5e6nQ)
   - Division of radical expressions
   - Addition and subtraction of radical expressions
+- #### Lecture 30 - Rationalizing Radical Expressions
+  - [Video](https://youtu.be/dOK91AAE4nM)
+  - A note on absolute value
+  - Rationalizing denominators
+  - Multiplying by conjugates 
