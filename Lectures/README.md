@@ -174,3 +174,8 @@
   - A note on absolute value
   - Rationalizing denominators
   - Multiplying by conjugates 
+- #### Lecture 31 - Roots as Rational Exponents
+  - [Video](https://youtu.be/dkGxresFCgA)
+  - Deriving rational exponents as roots
+  - Examples converting roots to rational exponents and vice versa 
+  - Simplifying expressions using rational exponents
