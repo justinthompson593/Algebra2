@@ -179,3 +179,8 @@
   - Deriving rational exponents as roots
   - Examples converting roots to rational exponents and vice versa 
   - Simplifying expressions using rational exponents
+- #### Lecture 32 - Solving Radical Equations
+  - [Video](https://youtu.be/xffhl0Sw304)
+  - General method for solving equations
+  - Particular methods for radical equations
+  - Identifying the easy way vs. the hard way
