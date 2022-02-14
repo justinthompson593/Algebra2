@@ -184,3 +184,10 @@
   - General method for solving equations
   - Particular methods for radical equations
   - Identifying the easy way vs. the hard way
+- #### Lecture 33 - Complex Numbers and the Imaginary Unit
+  - [Video](https://youtu.be/0TQXOTBJGSs)
+  - Review homework problem #50
+  - Introducing the imaginary unit, i
+  - Powers of i
+  - Why we chose to disregard absolute value in earlier lectures
+  - Adding complex numbers 
