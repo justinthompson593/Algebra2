@@ -191,3 +191,9 @@
   - Powers of i
   - Why we chose to disregard absolute value in earlier lectures
   - Adding complex numbers 
+- #### Lecture 34 - Intro to Complex Geometry
+  - [Video]()
+  - Magnitude (modulus, or absolute value) of a complex number
+  - Graphing complex numbers and sets of complex numbers
+  - Complex conjugation and multiplication
+  - Writing quotients of complex numbers in the form a + ib
