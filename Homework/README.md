@@ -104,9 +104,9 @@
   - Part 1: #5, 17, 33, 35
   - Part 2: #7, 9, 11, 15, 19, 21, 23, 27, 29, 31, 35, 37
 - #### Homework 25
-  - Chapter 7 Section 8
+  - Chapter 7 Section 8 (p. 325)
   - Part 1: #1, 7
   - Part 2: #3, 5, 11, 13, 15
-  - Chapter 7 Section 9
+  - Chapter 7 Section 9 (p. 329)
   - Part 1: #9, 13, 19, 29
   - Part 2: #7, 11, 15, 17, 21, 25, 27, 31, 33
