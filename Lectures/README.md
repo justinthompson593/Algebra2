@@ -192,7 +192,7 @@
   - Why we chose to disregard absolute value in earlier lectures
   - Adding complex numbers 
 - #### Lecture 34 - Intro to Complex Geometry
-  - [Video]()
+  - [Video](https://youtu.be/4lS29bpAqpI)
   - Magnitude (modulus, or absolute value) of a complex number
   - Graphing complex numbers and sets of complex numbers
   - Complex conjugation and multiplication
