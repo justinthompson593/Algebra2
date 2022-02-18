@@ -39,7 +39,7 @@
   - Factoring polynomials
   - Applying solving polynomial equations by factoring
 - #### Quiz 3
-  - [Link](https://github.com/justinthompson593/Algebra2/blob/f8c8e6a06db7739f8aa6122a47d01cc846e28242/Quizzes/Quiz3.pdf)
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/f8c8e6a06db7739f8aa6122a47d01cc846e28242/Quizzes/Quiz3.pdf) to Quiz3.pdf
   - [Solutions](https://github.com/justinthompson593/Algebra2/blob/0883878ffe1bb89ac421059e4f4cdc60f411ffc1/Quizzes/Quiz3Solutions.pdf)
   - [Video](https://youtu.be/MFIWLIZzy4I) solution for Problem 7
   - Simplifying rational polynomial expressions
@@ -50,7 +50,7 @@
     - 1 distance, rate, and time problem
     - 1 "Job" problem (If it takes x hours to do a job...)
 - #### Quiz 4 
-  - [Link](https://github.com/justinthompson593/Algebra2/blob/89e5295c14f420abdf0ea8e4d84b40bc716224c7/Quizzes/Quiz4.pdf)
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/89e5295c14f420abdf0ea8e4d84b40bc716224c7/Quizzes/Quiz4.pdf) to Quiz4.pdf
   - [Solutions](https://github.com/justinthompson593/Algebra2/blob/89e5295c14f420abdf0ea8e4d84b40bc716224c7/Quizzes/Quiz4Solutions.pdf)
   - Simplifying radical expressions
   - Converting between rational exponents and radicals
