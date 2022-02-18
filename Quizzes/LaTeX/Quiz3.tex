@@ -1,0 +1,129 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[lmargin=1in,rmargin=1in,tmargin=1in,bmargin=1in]{geometry}
+%For systems of equations
+\usepackage{systeme}
+%For figures
+\usepackage{graphicx}
+\usepackage{subcaption}
+% -------------------
+% Packages
+% -------------------
+\usepackage{
+	amsmath,			% Math Environments
+	amssymb,			% Extended Symbols
+	enumerate,		    % Enumerate Environments
+	graphicx,			% Include Images
+	lastpage,			% Reference Lastpage
+	multicol,			% Use Multi-columns
+	multirow			% Use Multi-rows
+}
+
+
+% -------------------
+% Font
+% -------------------
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+
+
+% -------------------
+% Commands
+% -------------------
+\newcommand{\quiz}[2]{\noindent\textbf{Name: }\makebox[8cm]{\hrulefill} \hfill \textbf{Algebra II} \\  \textbf{Date: } \hfill \textbf{Quiz #2}\\}
+
+\newcommand{\prob}{\noindent\textbf{Problem. }}
+\newcounter{problem}
+\newcommand{\problem}{
+	\stepcounter{problem}%
+	\noindent \textbf{ Problem \theproblem. }        
+}
+\newcommand{\pspace}{\par\vspace{\baselineskip}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\excred}{\noindent\textbf{Extra Credit. }}
+
+% -------------------
+% Header & Footer
+% -------------------
+\usepackage{fancyhdr}
+
+\fancypagestyle{pages}{
+	%Headers
+	\fancyhead[L]{}
+	\fancyhead[C]{}
+	\fancyhead[R]{}
+\renewcommand{\headrulewidth}{0pt}
+	%Footers
+	\fancyfoot[L]{}
+	\fancyfoot[C]{}
+	\fancyfoot[R]{}
+\renewcommand{\footrulewidth}{0.0pt}
+}
+\headheight=0pt
+\footskip=14pt
+
+\pagestyle{pages}
+
+
+% -------------------
+% Content
+% -------------------
+\begin{document}
+\quiz{\#}{3}
+
+
+% Question
+%\prob This is an unnumbered problem. \pspace
+
+
+% Question 1
+\problem Simplify and factor completely$$\frac{\frac{8t^5}{t^2 - 25}}{\frac{4t^2}{7t^2 - 34t - 5}}$$
+
+\vspace{2.5cm}
+
+
+% Question 2
+\problem Simplify and factor completely $$\frac{\frac{1}{a} - \frac{1}{b^2}}{\frac{1}{b} + \frac{1}{c}}$$
+
+\vspace{2.5cm}
+
+
+% Question 3
+\problem Compute the sum and simplify completely $$\frac{1}{2x} + \frac{4x}{x^2 - 1} - \frac{2}{x+1} $$
+
+\vspace{2.5cm}
+
+
+% Question 4
+\problem Solve. If there is more than one solution, write your answer as a solution set (i.e. $x \in \text{some set or interval}$). $$\frac{12}{x-1} - \frac{8}{x} = 2$$
+
+\vspace{2.5cm}
+
+
+% Question 5
+\problem Solve. If there is more than one solution, write your answer as a solution set. $$\frac{x^3 + 27}{x + 3} = x^2 - 3x + 9$$
+
+\vspace{2.5cm}
+
+
+% Question 6
+\problem Cyril can run 3 mi/hr faster than Methodius. If Cyril and Methodius run for the same amount of time, Cyril will travel 60 mi and Methodius will travel 12 mi less. How fast can Cyril run? Methodius? (Your answers should include the correct units!)
+
+\vspace{2.5cm}
+
+
+% Question 7
+\problem Use polynomial long division to write the following as a polynomial with remainder $$\frac{15x^4 - 5x^3 + 3x^2 - 4x + 2}{3x - 1}$$
+
+\vspace{2.5cm}
+
+
+
+% Extra Credit
+\excred (Part 1) Peter can write an epistle in $x$ hours. Paul can write an epistle in $y$ hours. Together they can write an epistle in $z$ hours. Find how many hours it takes Peter to write an epistle by himself in terms of Paul's time and their combined time. That is, solve for $x$ in terms of $y$ and $z$. \textit{Hint:} Write an expression involving the three given variables and get $x$ by itself. 
+
+\vspace{2.5cm}
+
+\excred (Part 2) Using your answer from Part 1, what restrictions must we have on $y$ and $z$? Explain why this is an obvious restriction given the context of the problem.
+
+
+\end{document}

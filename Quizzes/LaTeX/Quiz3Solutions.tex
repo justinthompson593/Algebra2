@@ -1,0 +1,236 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[lmargin=1in,rmargin=1in,tmargin=1in,bmargin=1in]{geometry}
+%For systems of equations
+\usepackage{systeme}
+%For figures
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+\usepackage{hyperref}
+
+% -------------------
+% Packages
+% -------------------
+\usepackage{
+	amsmath,			% Math Environments
+	amssymb,			% Extended Symbols
+	enumerate,		    % Enumerate Environments
+	graphicx,			% Include Images
+	lastpage,			% Reference Lastpage
+	multicol,			% Use Multi-columns
+	multirow			% Use Multi-rows
+}
+
+
+% -------------------
+% Font
+% -------------------
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+
+
+% -------------------
+% Commands
+% -------------------
+\newcommand{\quiz}[2]{\noindent\textbf{Name: }\makebox[8cm]{\hrulefill} \hfill \textbf{Algebra II} \\  \textbf{Date: } \hfill \textbf{Quiz #2}\\}
+
+\newcommand{\prob}{\noindent\textbf{Problem. }}
+\newcounter{problem}
+\newcommand{\problem}{
+	\stepcounter{problem}%
+	\noindent \textbf{ Problem \theproblem. }        
+}
+\newcommand{\pspace}{\par\vspace{\baselineskip}}
+\newcommand{\ds}{\displaystyle}
+\newcommand{\excred}{\noindent\textbf{Extra Credit. }}
+
+% -------------------
+% Header & Footer
+% -------------------
+\usepackage{fancyhdr}
+
+\fancypagestyle{pages}{
+	%Headers
+	\fancyhead[L]{}
+	\fancyhead[C]{}
+	\fancyhead[R]{}
+\renewcommand{\headrulewidth}{0pt}
+	%Footers
+	\fancyfoot[L]{}
+	\fancyfoot[C]{}
+	\fancyfoot[R]{}
+\renewcommand{\footrulewidth}{0.0pt}
+}
+\headheight=0pt
+\footskip=14pt
+
+\pagestyle{pages}
+
+
+% -------------------
+% Content
+% -------------------
+\begin{document}
+\quiz{\#}{3}
+
+
+% Question
+%\prob This is an unnumbered problem. \pspace
+
+
+% Question 1
+\problem Simplify and factor completely$\frac{\frac{8t^5}{t^2 - 25}}{\frac{4t^2}{7t^2 - 34t - 5}}$
+$$\frac{\frac{8t^5}{t^2 - 25}}{\frac{4t^2}{7t^2 - 34t - 5}} = \left(\frac{8t^5}{t^2 - 25}\right) \left(\frac{7t^2 - 34t - 5}{4t^2}\right) = \frac{8t^5(7t^2-34t-5)}{4t^2(t^2-25)} = \frac{8t^5(7t+1)(t-5)}{4t^2(t+5)(t-5)}$$
+$$= \frac{2t^3(7t+1)(t-5)}{(t+5)(t-5)} = \frac{2t^3(7t+1)}{(t+5)}$$
+
+\vspace{.5cm}
+
+
+% Question 2
+\problem Simplify and factor completely $\frac{\frac{1}{a} - \frac{1}{b^2}}{\frac{1}{b} + \frac{1}{c}}$
+$$\frac{\frac{1}{a} - \frac{1}{b^2}}{\frac{1}{b} + \frac{1}{c}} = \frac{\left(\frac{1}{a} - \frac{1}{b^2}\right)}{\left(\frac{1}{b} + \frac{1}{c}\right)} \left( \frac{ab^2c}{ab^2c}\right) = \frac{\left(\frac{1}{a} - \frac{1}{b^2}\right)ab^2c}{\left(\frac{1}{b} + \frac{1}{c}\right)ab^2c} = \frac{\frac{ab^2c}{a} - \frac{ab^2c}{b^2}}{\frac{ab^2c}{b} + \frac{ab^2c}{c}} $$
+$$= \frac{b^2c - ac}{abc + ab^2} = \frac{c(b^2 - a)}{ab(c+b)}$$
+
+\vspace{.5cm}
+
+
+% Question 3
+\problem Compute the sum and simplify completely $\frac{1}{2x} + \frac{4x}{x^2 - 1} - \frac{2}{x+1} $
+$$\frac{1}{2x} + \frac{4x}{x^2 - 1} - \frac{2}{x+1} = \frac{1}{2x} + \frac{4x}{(x+1)(x-1)} - \frac{2}{x+1} $$
+$$ = \frac{1(x+1)(x-1)}{2x(x+1)(x-1)} + \frac{4x(2x)}{(x+1)(x-1)2x} - \frac{2(2x)(x-1)}{(x+1)2x(x-1)}$$
+$$ = \frac{(x+1)(x-1) + 8x^2 - \left( 4x(x-1)\right)}{2x(x+1)(x-1)}$$ 
+$$ = \frac{x^2 - 1 + 8x^2 - 4x^2 + 4x}{2x(x+1)(x-1)} = \frac{5x^2 + 4x -1}{2x(x+1)(x-1)}$$
+$$ = \frac{(5x - 1)(x+1)}{2x(x+1)(x-1)} = \frac{5x-1}{2x(x-1)}$$
+
+\vspace{.5cm}
+
+
+% Question 4
+\problem Solve. If there is more than one solution, write your answer as a solution set (i.e. $x \in \text{some set or interval}$). $\frac{12}{x-1} - \frac{8}{x} = 2$
+$$\frac{12}{x-1} - \frac{8}{x} = 2$$
+$$\iff x(x-1)\left(\frac{12}{x-1} - \frac{8}{x}\right) = (2) x(x-1)$$
+$$ \iff \frac{12x(x-1)}{x-1} - \frac{8x(x-1)}{x} = 2x(x-1)$$
+$$ \iff 12x - 8(x-1) = 2x^2 - 2x $$
+$$ \iff 12x - 8x + 8 = 2x^2 - 2x $$
+$$ \iff 4x + 8 = 2x^2 - 2x $$
+$$ \iff 8 = 2x^2 - 6x $$
+$$ \iff 0 = 2x^2 - 6x - 8 $$
+$$ \iff 0 = 2(x^2 - 3x - 4) $$
+$$ \iff 0 = 2(x + 1)(x - 4) $$
+Since this equation is true whenever $x = -1$ or when $x = 4$ \textit{and} since neither of those numbers cause the original equation to have division by zero, the solution set is given by
+$$ x \in \{ -1, 4\} $$
+
+\vspace{.5cm}
+
+
+% Question 5
+\problem Solve. If there is more than one solution, write your answer as a solution set.
+ $$\frac{x^3 + 27}{x + 3} = x^2 - 3x + 9$$
+ $$ \iff (x+3) \left(\frac{x^3 + 27}{x + 3}\right) = (x+3)(x^2 - 3x + 9) $$
+ $$ \iff x^3 + 27 = (x+3)(x^2 - 3x + 9) $$
+ This final equation is an identity for the sum of two cubes. You can also see this by multiplying out the right hand side to verify that it is indeed equal to the left hand side. Alternately, we could have used the sum of cubes formula in the first step to give us
+ $$\frac{x^3 + 27}{x + 3} = x^2 - 3x + 9$$
+ $$ \iff \frac{(x+3)(x^2 - 3x + 9)}{x + 3} = x^2 - 3x + 9 $$
+ $$ \iff x^2 - 3x + 9 = x^2 - 3x + 9$$
+In both cases, we end up with an identity that is true for every real value of $x$. All that remains is to check the original equation (as written) to see if any real numbers will cause a division by zero. Since $x+3$ is in the denominator, we cannot have $x = -3$ as an answer. But all other real numbers are allowable values of $x$. Therefore, 
+$$ x \in ( -\infty, -3) \cup (-3, \infty)$$
+\vspace{.5cm}
+
+
+% Question 6
+\problem Cyril can run 3 mi/hr faster than Methodius. If Cyril and Methodius run for the same amount of time, Cyril will travel 60 mi and Methodius will travel 12 mi less. How fast can Cyril run? Methodius? (Your answers should include the correct units!) 
+\\
+
+Let $c$ be Cyril's running speed and $m$ be Methodius' running speed both in mi/hr. Since Cyril is 3 mi/hr faster, we have $c = m+3$. Let $T$ be the unknown amount of time described above, during which the two run. Since distance equals rate times time ($ d = rt $) we can relate the distance each ran during that unknown time. Cyril travels 60 miles while running as his speed during that time. So we have
+$$ 60 = cT.$$
+But we can substitute $c = m+3$ so that we can reduce our overall number of unknowns. This gives us
+$$ 60 = (m+3)T. $$
+During this time Methodius runs 12 miles less than Cyril, so his total distance is $60 - 12 = 48$ over that same amount of time, $T$. Therefore
+$$ 48 = mT.$$
+Since that unknown amount of time, $T$, is equal in both cases, we can solve each equation for it, giving us
+$$ 60 = (m+3)T \iff \frac{60}{m+3} = T $$
+and
+$$ 48 = mT \iff \frac{48}{m} = T.$$
+Since $T =T$ we can relate these two equations like so
+$$ \frac{60}{m+3} = \frac{48}{m} $$
+$$ \iff m(m+3)\left(\frac{60}{m+3}\right) = \left(\frac{48}{m}\right) m(m+3)$$
+$$ \iff 60m = 48(m+3) $$
+$$ \iff 60m = 48m + 144 $$
+$$ \iff 12m = 144$$
+$$ \iff m = 12.$$
+Then Methodius' running speed is 12 mi/hr and Cyril's is 3 mi/hr more, so 15 mi/hr.
+
+
+\vspace{.5cm}
+
+
+% Question 7
+\problem Use polynomial long division to write the following as a polynomial with remainder 
+$$ \frac{15x^4 - 5x^3 + 3x^2 - 4x + 2}{3x - 1} = 5x^3 + x - 1 + \frac{1}{3x-1} $$
+See \url{https://youtu.be/MFIWLIZzy4I} for video solution.
+
+\vspace{.5cm}
+
+
+
+% Extra Credit
+\excred (Part 1) Peter can write an epistle in $x$ hours. Paul can write an epistle in $y$ hours. Together they can write an epistle in $z$ hours. Find how many hours it takes Peter to write an epistle by himself in terms of Paul's time and their combined time. That is, solve for $x$ in terms of $y$ and $z$. \textit{Hint:} Write an expression involving the three given variables and get $x$ by itself. 
+\\
+
+Since one job can be done by Peter in $x$ hours, his rate is $\frac{1}{x}$. Similarly, Paul's rate is $\frac{1}{y}$. Since their time of doing that job together is $z$ hours, their combined rate is $\frac{1}{z}$. Since rates are additive, we have
+$$ \frac{1}{x} + \frac{1}{y} = \frac{1}{z}. $$
+Killing denominators gives us
+$$ xyz \left(\frac{1}{x} + \frac{1}{y}\right) = \left(\frac{1}{z}\right) xyz$$
+$$ \iff \frac{xyz}{x} + \frac{xyz}{y} = \frac{xyz}{z} $$
+$$ \iff yz + xz = xy.$$
+Solving for $x$,
+$$ yz + xz = xy$$
+$$ \iff yz = xy - xz$$
+$$ \iff yz = x(y - z)$$
+$$ \iff \frac{yz}{y-z} = x.$$
+Note that your answer may look different if you solved for $x$ like this
+$$ yz + xz = xy$$
+$$ \iff yz + xz - xy = 0$$
+$$ \iff xz - xy = -yz$$
+$$ \iff x(z - y) = - yz$$
+$$ \iff x = \frac{-yz}{z - y}$$
+but both answers are equivalent because
+$$ \frac{-yz}{z - y} =  \frac{yz}{-(z-y)} = \frac{yz}{-z+y} = \frac{yz}{y-z}.$$
+Thus, Peter can write an epistle in $\frac{yz}{y-z}$ hours.
+
+\vspace{.5cm}
+
+\excred (Part 2) Using your answer from Part 1, what restrictions must we have on $y$ and $z$? Explain why this is an obvious restriction given the context of the problem.
+\\
+
+Since the denominator cannot equal $0$, we must have $y \neq z$. This makes sense because if $z$ is the time that it takes Peter \textit{and} Paul to write an epistle \textit{together}, and assuming that both parties actually do work, it must be the case that their total time, $z$, is shorter than either of the times for them to do it alone, $x$ or $y$. That is, we must have both $z < x$ and $z < y$.
+\\
+
+This also lets us check the reasonableness of our answer. Since it takes Paul longer to write an epistle than it takes them both to write one, we must have $z < y$. Therefore $0 < (y - z)$. Clearly, all of these times must be positive (since it can't take negative time to do a job, with or without help). Then both $y$ and $z$ must be positive numbers. Therefore $yz$ is positive. And since $(y - z)$ is positive, so is $\frac{yz}{y-z}$. Our answer, $x = \frac{yz}{y-z}$ agrees with reason since it has to be the case that $0 < x$. 
+\\
+
+To really go above and beyond, we can check to see if our answer (the time it takes Peter to write an epistle alone) is greater than their combined time. We've already noted that we must have $z < y$, and now we'll check that we do have $z < x$ too. We'll assume that $z < x$ and hopefully we won't run into a contradiction. 
+$$ z < x $$
+$$ \iff z < \frac{yz}{y-z}$$
+$$ \iff z(y-z) < yz $$
+$$ \iff zy - z^2 < yz $$
+$$ \iff zy - yz < z^2 $$
+$$ \iff yz - yz < z^2 $$
+$$ \iff 0 < z^2 $$
+which should be true whenever $z \neq 0$. Notice, however, that this is not a proof! We started with what we wanted to prove and showed that it was sound. What we need to do is go the other way around. We have to start with something we know is true and show that what we want to prove follows from that fact. To that end, since the combined time it takes the two Apostles to do a job isn't instantaneous, we'll suppose that $0 < z$. It follows that
+$$ 0 < z $$
+$$ \iff z (0) < z (z) $$ 
+$$ \iff 0 < z^2 $$
+$$ \iff yz - yz < z^2 $$
+$$ \iff zy - yz < z^2 $$
+$$ \iff zy - z^2 < yz $$
+$$ \iff z(y-z) < yz. $$
+As noted above, $z < y$, so $0 < (y-z)$. Since $(y-z)$ is positive (and nonzero), we can divide both sides of the equation by $(y-z)$ without having to flip the inequality. Thus,
+$$ \iff z(y-z) < yz $$
+$$ \iff \frac{z(y-z)}{y-z} < \frac{yz}{y-z}$$
+$$ \iff z < \frac{yz}{y-z}$$
+$$ \iff z < x $$
+which is what we wanted to show. 
+
+
+\end{document}
