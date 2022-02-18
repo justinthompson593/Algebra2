@@ -49,3 +49,10 @@
   - Applications 
     - 1 distance, rate, and time problem
     - 1 "Job" problem (If it takes x hours to do a job...)
+- #### Quiz 4 
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/89e5295c14f420abdf0ea8e4d84b40bc716224c7/Quizzes/Quiz4.pdf)
+  - [Solutions](https://github.com/justinthompson593/Algebra2/blob/89e5295c14f420abdf0ea8e4d84b40bc716224c7/Quizzes/Quiz4Solutions.pdf)
+  - Simplifying radical expressions
+  - Converting between rational exponents and radicals
+  - Multiplication and division of complex numbers
+  - Writing complex numbers in the form a + ib
