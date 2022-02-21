@@ -197,3 +197,8 @@
   - Graphing complex numbers and sets of complex numbers
   - Complex conjugation and multiplication
   - Writing quotients of complex numbers in the form a + ib
+- #### Lecture 35 - Quadratics 
+  - [Video](https://youtu.be/_7bTxrCX2Zg)
+  - Motivation for studying quadratics
+  - How we've solved quadratic equations so far (factoring or isolating x)
+  - How we might go about getting a general solution 
