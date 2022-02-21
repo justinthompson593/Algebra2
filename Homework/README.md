@@ -112,4 +112,4 @@
   - Part 2: #7, 11, 15, 17, 21, 25, 27, 31, 33
 - #### Homework 26
   - Part 1: Verify that x = (1 - sqrt(5)) is a solution to both (x-1)^2 - 5 = 0 and x^2 - 2x - 4 = 0
-  - Part 2: [link](https://github.com/justinthompson593/Algebra2/blob/7f80cbb51feb19d4dd9a07c6aa7d6e4302cfaac4/Homework/Homework26.pdf) to Homework26.pdf
+  - Part 2: [link](https://github.com/justinthompson593/Algebra2/blob/692b824d45ec8bfae999007d9fd3860e4e69ece3/Homework/Homework26.pdf) to Homework26.pdf
