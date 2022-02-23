@@ -202,3 +202,8 @@
   - Motivation for studying quadratics
   - How we've solved quadratic equations so far (factoring or isolating x)
   - How we might go about getting a general solution 
+- #### Lecture 36 - Towards Completing The Square
+  - [Video](https://youtu.be/h9PjvNj7b7k)
+  - Review of motivation for rewriting quadratics
+  - How our new form, a(x-h)^2 + k = 0, is always solvable 
+  - Beginning to go from x^2 + bx to (x-h)^2
