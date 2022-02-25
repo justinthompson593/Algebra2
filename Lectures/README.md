@@ -207,3 +207,10 @@
   - Review of motivation for rewriting quadratics
   - How our new form, a(x-h)^2 + k = 0, is always solvable 
   - Beginning to go from x^2 + bx to (x-h)^2
+- #### Lecture 37 - Completing The Square
+  - [Video](https://youtu.be/J2tsKMo3Cpw)
+  - Emphasize the point of homework (if x is equal y, you can substitute x in place of y)
+  - Factoring any number out of any other number
+  - Why we might want to multiply something by 1 (or add 0 to something) 
+  - Completing the square (CTS) algorithm 
+  - General solution to ax^2 + bx + c = 0
