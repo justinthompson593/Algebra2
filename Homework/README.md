@@ -118,3 +118,4 @@
   - [Link](https://github.com/justinthompson593/Algebra2/blob/4c8b000d07ea0d612a80504f75343aff0f9874ca/Homework/Homework27.pdf) to Homework27.pdf
   - Part 1: Problem 1 on pdf
   - Part 2: Problem 2 on pdf
+  - [Solutions](https://github.com/justinthompson593/Algebra2/blob/7d0f8ec08b228a598719379e9c8937c62568e0fa/Homework/Homework27Solutions.pdf)
