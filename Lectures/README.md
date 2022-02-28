@@ -214,3 +214,7 @@
   - Why we might want to multiply something by 1 (or add 0 to something) 
   - Completing the square (CTS) algorithm 
   - General solution to ax^2 + bx + c = 0
+- #### Lecture 38 - Completing The Square Worked Examples
+  - [Video](https://youtu.be/h5BSTVmpzKM)
+  - How to use the general form as a roadmap
+  - Worked examples of turning ax^2 + bx + c into a(x-h)^2 + k
