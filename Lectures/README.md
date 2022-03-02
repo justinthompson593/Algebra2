@@ -218,3 +218,8 @@
   - [Video](https://youtu.be/h5BSTVmpzKM)
   - How to use the general form as a roadmap
   - Worked examples of turning ax^2 + bx + c into a(x-h)^2 + k
+- #### Lecture 39 - Translating Functions
+  - [Video](https://youtu.be/2Nm3raljVRY)
+  - Shifting functions left and right [ f(x+-a) ]
+  - Lifting functions up and down  [ f(x) +- a ]
+  - How to use shifting and lifting to graph f(x) = x^2 + bx + c
