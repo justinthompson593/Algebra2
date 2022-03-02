@@ -124,3 +124,5 @@
   - [Solutions](https://github.com/justinthompson593/Algebra2/blob/0cc5e0bd1aeab092444c27fd6348004876798bfe/Homework/Homework28Solutions.pdf)
 - #### Homework 29
   - [Link](https://github.com/justinthompson593/Algebra2/blob/bb5b5f14b2d7b477c73dba3df61462b4458def18/Homework/Homework29.pdf) to Homework29.pdf
+  - Part 1: (a) - (d)
+  - Part 2: (e) - (i)
