@@ -121,3 +121,4 @@
   - [Solutions](https://github.com/justinthompson593/Algebra2/blob/7d0f8ec08b228a598719379e9c8937c62568e0fa/Homework/Homework27Solutions.pdf)
 - #### Homework 28
   - [Link](https://github.com/justinthompson593/Algebra2/blob/bc1b5a067829de0d4a829cbef750499003ffe5b6/Homework/Homework28.pdf) to Homework28.pdf 
+  - [Solutions](https://github.com/justinthompson593/Algebra2/blob/0cc5e0bd1aeab092444c27fd6348004876798bfe/Homework/Homework28Solutions.pdf)
