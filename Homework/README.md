@@ -126,3 +126,5 @@
   - [Link](https://github.com/justinthompson593/Algebra2/blob/bb5b5f14b2d7b477c73dba3df61462b4458def18/Homework/Homework29.pdf) to Homework29.pdf
   - Part 1: (a) - (d)
   - Part 2: (e) - (i)
+- #### Homework 30 
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/8dfd8f751cf45c3f48502d4277da3d0cc1154a47/Homework/Homework30.pdf) to Homework30.pdf
