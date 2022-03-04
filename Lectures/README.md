@@ -223,3 +223,8 @@
   - Shifting functions left and right [ f(x+-a) ]
   - Lifting functions up and down  [ f(x) +- a ]
   - How to use shifting and lifting to graph f(x) = x^2 + bx + c
+- #### Lecture 40 - Vertical Stretching and Compression of Parabolas
+  - [Video](https://youtu.be/rC8SYgzEjcE)
+  - Why order matters
+  - Multiplying the output of a function
+  - How to shift and stretch parabolas in the form a(x-h)^2 + k
