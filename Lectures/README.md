@@ -228,3 +228,8 @@
   - Why order matters
   - Multiplying the output of a function
   - How to shift and stretch parabolas in the form a(x-h)^2 + k
+- #### LEcture 41 - Stretching Functions Vertically
+  - [Video](https://youtu.be/3-Pd_ftbfBg)
+  - Motivation for why we spend so much time on graphing functions
+  - Multiplying the output of functions
+  - Adding to the output of functions
