@@ -233,3 +233,8 @@
   - Motivation for why we spend so much time on graphing functions
   - Multiplying the output of functions
   - Adding to the output of functions
+- #### Lecture 42 - Horizontal Stretches and Compressions
+  - [Video](https://youtu.be/GRgaFU2deVM)
+  - Why multiplication of the input is "backwards"
+  - Graphing stretches and shifts on desmos
+  - What will be on Friday's quiz
