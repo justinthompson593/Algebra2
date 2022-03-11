@@ -58,6 +58,7 @@
   - Writing complex numbers in the form a + ib
 - #### Quiz 5
   - [Link](https://github.com/justinthompson593/Algebra2/blob/761398b2958cafe965f215f805c781b3a79ef8e5/Quizzes/Quiz5.pdf) to Quiz5.pdf
+  - [Video](https://youtu.be/du2zTpzJy3M) solutions
   - Completing the square
   - Graphing parabolas 
   - Finding zeros of quadratic polynomials
