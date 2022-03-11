@@ -56,3 +56,9 @@
   - Converting between rational exponents and radicals
   - Multiplication and division of complex numbers
   - Writing complex numbers in the form a + ib
+- #### Quiz 5
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/761398b2958cafe965f215f805c781b3a79ef8e5/Quizzes/Quiz5.pdf) to Quiz5.pdf
+  - Completing the square
+  - Graphing parabolas 
+  - Finding zeros of quadratic polynomials
+  - Transforming the graph of a function
