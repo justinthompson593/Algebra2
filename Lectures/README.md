@@ -238,3 +238,8 @@
   - Why multiplication of the input is "backwards"
   - Graphing stretches and shifts on desmos
   - What will be on Friday's quiz
+- #### Lecture 43 - Wrapping Up Parabolas 
+  - [Video](https://youtu.be/lPvbl7pfsic)
+  - Finding the midpoint of two numbers
+  - Finding the formula for a parabola given the vertex and a point
+  - Using the quadratic formula to find the vertex of a parabola 
