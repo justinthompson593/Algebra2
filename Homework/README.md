@@ -132,3 +132,5 @@
   - [Solutions](https://github.com/justinthompson593/Algebra2/blob/86ec20c534724c5fa24bcca08c625147b13b8858/Homework/Homework30Solutions.pdf)
 - #### Homework 31
   - [Link](https://github.com/justinthompson593/Algebra2/blob/55cbb65f068fc7e23c00012a369905d7e12b8093/Homework/Homework31.pdf) to Homework31.pdf
+- #### Homework 32
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/75d9f334faedeb43fb7365b10b9612fbef136301/Homework/Homework32.pdf) to Homework32.pdf
