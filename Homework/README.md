@@ -134,3 +134,6 @@
   - [Link](https://github.com/justinthompson593/Algebra2/blob/55cbb65f068fc7e23c00012a369905d7e12b8093/Homework/Homework31.pdf) to Homework31.pdf
 - #### Homework 32
   - [Link](https://github.com/justinthompson593/Algebra2/blob/75d9f334faedeb43fb7365b10b9612fbef136301/Homework/Homework32.pdf) to Homework32.pdf
+- #### Homework 33
+  - Chapter 9 Section 8 (p. 418-19)
+  - #1, 5, 7, 9, 11, 13
