@@ -243,3 +243,7 @@
   - Finding the midpoint of two numbers
   - Finding the formula for a parabola given the vertex and a point
   - Using the quadratic formula to find the vertex of a parabola 
+- #### Lecture 44 - Applications of Quadratic Functions 
+  - [Video](https://youtu.be/OSdLDIwEpjY)
+  - Fitting a quadratic function to a data set
+  - Free fall projectile motion problems
