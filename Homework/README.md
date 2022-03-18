@@ -138,3 +138,10 @@
 - #### Homework 33
   - Chapter 9 Section 8 (p. 418-19)
   - #1, 5, 7, 9, 11, 13
+- #### Homework 34
+  - Chapter 8 Section 2 (p. 349)
+  - #1, 3, 5, 7, 9
+  - Chapter 9 Section 6 (p. 410)
+  - #13, 15, 17, 21, 27
+  - Chapter 9 Section 8 (p. 419)
+  - #16
