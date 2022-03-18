@@ -247,3 +247,8 @@
   - [Video](https://youtu.be/OSdLDIwEpjY)
   - Fitting a quadratic function to a data set
   - Free fall projectile motion problems
+- #### Lecture 45 - Optimization Problems
+  - [Video](https://youtu.be/5QFu8WQr9M4)
+  - General roadmap for solving optimization problems
+  - Maximizing the area of a rectangular region with given perimeter 
+  - Brief rundown of other word problems in homework
