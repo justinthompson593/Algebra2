@@ -252,3 +252,9 @@
   - General roadmap for solving optimization problems
   - Maximizing the area of a rectangular region with given perimeter 
   - Brief rundown of other word problems in homework
+- #### Lecture 46 - An Optimization Problem Not Strictly Necessary
+  - [Video](https://youtu.be/S1c6WKxfz50)
+  - Optimizing the volume of a box
+  - How to reason through boundaries of the problem
+  - How to graph to estimate a solution
+  - How to use calculus to obtain the exact answer 
