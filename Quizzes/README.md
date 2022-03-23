@@ -70,7 +70,7 @@
   - Chapter 9 Section 6 (p. 410-11)
   - #12, 14, 16, 26, 28
   - Chapter 9 Section 8 (p. 418)
-  - # 6
+  - #6
   - Do parts a) and b) as stated in the book
   - Additionally, for the function you obtain in part a):
     - Determine if the function has a minimum or a maximum
