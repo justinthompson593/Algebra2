@@ -258,3 +258,9 @@
   - How to reason through boundaries of the problem
   - How to graph to estimate a solution
   - How to use calculus to obtain the exact answer 
+- #### Lecture 47 - Circles
+  - Technical difficulties prevented us from recording this lecture
+  - Introduce a circle as a set of points in the plane a fixed distance from a given point
+  - General form of a circle
+  - Graphing circles 
+  - The lecture was (more or less) tailored to solving problems found in Chapter 10 Section 2 of our text
