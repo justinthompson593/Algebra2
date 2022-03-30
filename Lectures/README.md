@@ -264,3 +264,8 @@
   - General form of a circle
   - Graphing circles 
   - The lecture was (more or less) tailored to solving problems found in Chapter 10 Section 2 of our text
+- #### Lecture 48 - Ellipses 
+  - [Video]()
+  - Introducing ellipses as conic sections and brief overview of applications
+  - Standard form of an ellipse
+  - Graphing ellipses 
