@@ -65,6 +65,7 @@
   - Transforming the graph of a function
 - #### Quiz 6
   - Take home quiz
+  - Solutions [video](https://youtu.be/x0dLH8OWLFI)
   - Chapter 8 Section 2 (p. 349)
   - #2, 4, 6, 8, 10
   - Chapter 9 Section 6 (p. 410-11)
