@@ -269,3 +269,8 @@
   - Introducing ellipses as conic sections and brief overview of applications
   - Standard form of an ellipse
   - Graphing ellipses 
+- #### Lecture 49 - Ellipses (Part 2)
+  - [Video](https://youtu.be/WZwoUdxmpFQ)
+  - How all the objects we've studied thus far in math have been special cases of one type of equation
+  - Why the general form of an ellipse exists and why it's helpful
+  - Another way to graph ellipses 
