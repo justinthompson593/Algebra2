@@ -274,3 +274,7 @@
   - How all the objects we've studied thus far in math have been special cases of one type of equation
   - Why the general form of an ellipse exists and why it's helpful
   - Another way to graph ellipses 
+- #### Lecture 50 - Intro to Hyperbolas and Ellipse Review
+  - [Video](https://youtu.be/cDjRU8f-Ep0)
+  - A brief introduction to hyperbolas of the form xy = c 
+  - Review of ellipses for homework problems 
