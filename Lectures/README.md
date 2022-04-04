@@ -278,3 +278,4 @@
   - [Video](https://youtu.be/cDjRU8f-Ep0)
   - A brief introduction to hyperbolas of the form xy = c 
   - Review of ellipses for homework problems 
+  - NOTE: I say "rotation" a few times while talking about multiplying a function f(x) by (-1), but I meant to say "reflection" about the x-axis
