@@ -153,3 +153,7 @@
   - Chapter 10 Section 3 (p. 442)
   - #5 - 23 odd
   - Label ALL x and y intercepts! 
+- #### Homework 37
+  - Chapter 10 Section 4 (p. 450)
+  - #1 - 19 odd
+  - #22, 23
