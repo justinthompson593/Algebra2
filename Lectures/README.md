@@ -279,3 +279,9 @@
   - A brief introduction to hyperbolas of the form xy = c 
   - Review of ellipses for homework problems 
   - NOTE: I say "rotation" a few times while talking about multiplying a function f(x) by (-1), but I meant to say "reflection" about the x-axis
+- #### Lecture 51 - Hyperbolas
+  - [Video](https://youtu.be/Zi_q8PEuFS4)
+  - Standard form of the equation of a hyperbola
+  - Finding asymptotes and a handwavy explanation for their formulas
+  - Graphing hyperbolas
+  - NOTE: I stated that the two hyperbolas that we graphed in class were conjugate hyperbolas, but I was wrong. That would have been the case if the second one we did were -x^2/3^2 + y^2/2^2 = 1
