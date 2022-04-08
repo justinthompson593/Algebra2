@@ -285,3 +285,9 @@
   - Finding asymptotes and a handwavy explanation for their formulas
   - Graphing hyperbolas
   - NOTE: I stated that the two hyperbolas that we graphed in class were conjugate hyperbolas, but I was wrong. That would have been the case if the second one we did were -x^2/3^2 + y^2/2^2 = 1
+- #### Lecture 52 - Homework Review and Classifying Conic Sections
+  - [Video](https://youtu.be/NUViIBhX9Wg)
+  - I nitpick a little about notation
+  - We review some possible misunderstandings in the homework
+  - We briefly discuss parabolas as conic sections and then leave them behind
+  - We discuss how to classify a conic section given a general equation
