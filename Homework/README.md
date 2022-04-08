@@ -157,3 +157,8 @@
   - Chapter 10 Section 4 (p. 450)
   - #1 - 19 odd
   - #22, 23
+- #### Homework 38
+  - Redo #15, 22, 23
+  - Chapter 10 Section 6 (p. 462)
+  - #1 - 9 odd
+  - #11, 15, 17
