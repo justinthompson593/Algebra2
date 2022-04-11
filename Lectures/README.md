@@ -291,3 +291,7 @@
   - We review some possible misunderstandings in the homework
   - We briefly discuss parabolas as conic sections and then leave them behind
   - We discuss how to classify a conic section given a general equation
+- #### Lecture 53 - Quadratic Systems of Equations
+  - [Video](https://youtu.be/n2WvZOvYOaA)
+  - Similarities and differences of linear systems and quadratic systems
+  - General method for solving a quadratic system with two equations 
