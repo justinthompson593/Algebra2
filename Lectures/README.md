@@ -295,3 +295,6 @@
   - [Video](https://youtu.be/n2WvZOvYOaA)
   - Similarities and differences of linear systems and quadratic systems
   - General method for solving a quadratic system with two equations 
+- #### Lecture 54 - Quiz Review
+  - [Video](https://youtu.be/jIZuh4MUNOw)
+  - Review for Quiz 7 on chapter 10 material
