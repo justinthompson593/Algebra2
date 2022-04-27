@@ -298,3 +298,9 @@
 - #### Lecture 54 - Quiz Review
   - [Video](https://youtu.be/jIZuh4MUNOw)
   - Review for Quiz 7 on chapter 10 material
+- #### Lecture 55 - Inverse Functions
+  - [Video](https://youtu.be/XJCAr-vnqg4)
+  - Finding formulas for a function and its inverse graphically
+  - Finding the formula for an inverse symbolically 
+  - Seeing an inverse as swapping the role of input and output of a given function
+  - Why the composition of a function and its inverse is (usually) the identity, and when that fails (if it does) 
