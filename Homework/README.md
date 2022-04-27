@@ -166,3 +166,6 @@
   - Chapter 10 Section 7 (p. 467)
   - #1, 5, 9, 11, 13, 15, 19 (Graph and label intersections)
   - #21 (Draw an example of each type of intersection in your answer) 
+- #### Homework 40
+  - Chapter 12 Section 1 (p. 520)
+  - #25 - 55 odd
