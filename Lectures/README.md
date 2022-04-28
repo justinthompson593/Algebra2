@@ -304,3 +304,9 @@
   - Finding the formula for an inverse symbolically 
   - Seeing an inverse as swapping the role of input and output of a given function
   - Why the composition of a function and its inverse is (usually) the identity, and when that fails (if it does) 
+- #### Lecture 56 - Exponential Functions
+  - [Video](https://youtu.be/w_sTcT9qIvI)
+  - Introducing exponential functions
+  - How and why the size of the base determines the shape of the graph
+  - Graphing exponential functions (and a little bit of transforming the graphs) 
+  - Expectations for homework  
