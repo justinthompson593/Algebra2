@@ -169,3 +169,7 @@
 - #### Homework 40
   - Chapter 12 Section 1 (p. 520)
   - #25 - 55 odd
+- #### Homework 41
+  - Chapter 12 Section 2 (p. 525)
+  - #1 - 11 odd
+  - #21, 25
