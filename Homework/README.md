@@ -173,3 +173,9 @@
   - Chapter 12 Section 2 (p. 525)
   - #1 - 11 odd
   - #21, 25
+- #### Homework 42
+  - Chapter 12 Section 2 (p. 525)
+  - #13 - 19 odd
+  - #27
+  - #31 - 35 odd
+  - #39
