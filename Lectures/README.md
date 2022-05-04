@@ -310,3 +310,9 @@
   - How and why the size of the base determines the shape of the graph
   - Graphing exponential functions (and a little bit of transforming the graphs) 
   - Expectations for homework  
+- #### Lecture 57 - Introducing Logarithmic Functions
+  - [Video](https://youtu.be/0bzPPRg1KcE)
+  - Review the inverse of the function "x squared" 
+  - Graphing and inverting the graph of "2 to the x" 
+  - Similarities in notation of "square root" and "log"
+  - Graphing logarithms and finding the domain 
