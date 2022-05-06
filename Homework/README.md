@@ -179,3 +179,8 @@
   - #27
   - #31 - 35 odd
   - #39
+- #### Homework 43
+  - Chapter 12 Section 3 (p. 528) 
+  - #1 - 17 odd
+  - #19 - 25 odd (solve using both ways discussed in class)
+  - #31 - 41
