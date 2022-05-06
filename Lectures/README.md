@@ -316,3 +316,11 @@
   - Graphing and inverting the graph of "2 to the x" 
   - Similarities in notation of "square root" and "log"
   - Graphing logarithms and finding the domain 
+- #### Lecture 58 - Exponential and Logarithmic Relationships
+  - [Video](https://youtu.be/lvmnbNuRMKI)
+  - Review homework question
+  - Using graphing to solve equations/inequalities
+  - Exponential and Logarithmic forms of equations
+  - How the composition of inverses is practical (and how we've been using this all along)
+  - Solving simple logarithmic equations
+  - Computing simple logarithms 
