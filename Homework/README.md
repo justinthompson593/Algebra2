@@ -184,3 +184,8 @@
   - #1 - 17 odd
   - #19 - 25 odd (solve using both ways discussed in class)
   - #31 - 41 odd
+- #### Homework 44
+  - Chapter 12 Section 4 (p. 532-3)
+  - #1 - 23 odd
+  - #33 - 45 odd
+  - #47
