@@ -324,3 +324,8 @@
   - How the composition of inverses is practical (and how we've been using this all along)
   - Solving simple logarithmic equations
   - Computing simple logarithms 
+- #### Lecture 59 - Properties of Logarithmic Functions
+  - [Video](https://youtu.be/WC_3yTK4K_Q)
+  - We derive three important identities involving logarithms 
+  - Examples of how these identities are used 
+  - Examples from the homework 
