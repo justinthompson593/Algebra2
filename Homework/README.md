@@ -189,3 +189,9 @@
   - #1 - 23 odd
   - #33 - 45 odd
   - #47
+- #### Homework 45
+  - Chapter 12 Section 7 (p. 547-8) 
+  - #1 - 15 odd (use natural log to get exact answers, then approximate your answer with a calculator) 
+  - #17 - 25 odd
+  - #39 - 43 odd
+  - #47 - 51 odd (use natural log for #49) 
