@@ -329,3 +329,8 @@
   - We derive three important identities involving logarithms 
   - Examples of how these identities are used 
   - Examples from the homework 
+- #### Lecture 60 - Exponential and Logarithmic Equations 
+  - [Video](https://youtu.be/EOkyBkOFtys)
+  - The natural logarithm and the common logarithm
+  - Logarithmic change of base formula
+  - Solving equations involving exponentials and logarithms 
