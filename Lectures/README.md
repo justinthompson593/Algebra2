@@ -334,3 +334,8 @@
   - The natural logarithm and the common logarithm
   - Logarithmic change of base formula
   - Solving equations involving exponentials and logarithms 
+- #### Lecture 61 - Applications of Exponential and Logarithmic Functions
+  - [Video](https://youtu.be/ZrbYa4sJnm4)
+  - Homework review
+  - Richter scale, Decibels, pH scale
+  - Computing simple interest (compounded yearly) 
