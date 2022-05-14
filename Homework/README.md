@@ -198,4 +198,5 @@
 - #### Homework 46
   - Chapter 12 Section 7 (p. 547-8)
   - #27 - 37 odd
-  - #43 - 51 odd (make up from last time, always use natural log)
+  - #43 
+  - #47 - 51 odd (make up from last time, always use natural log)
