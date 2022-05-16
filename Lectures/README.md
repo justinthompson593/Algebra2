@@ -345,3 +345,4 @@
   - An intuitive introduction to convergence/limit of a sequence
   - Introducing the number e as a limit of a sequence 
   - Future applications of the exponential function e^(rt)
+  
