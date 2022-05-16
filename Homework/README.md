@@ -200,3 +200,6 @@
   - #27 - 37 odd
   - #43 
   - #47 - 51 odd (make up from last time, always use natural log)
+- #### Homework 47
+  - Chapter 12 Section 8 (p. 556)
+  - #39
