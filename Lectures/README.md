@@ -339,3 +339,9 @@
   - Homework review
   - Richter scale, Decibels, pH scale
   - Computing simple interest (compounded yearly) 
+- #### Lecture 62 - Compound Interest and the Number e
+  - [Video](https://youtu.be/n-76jpnY5H8)
+  - Compound interest 
+  - An intuitive introduction to convergence/limit of a sequence
+  - Introducing the number e as a limit of a sequence 
+  - Future applications of the exponential function e^(rt)
