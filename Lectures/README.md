@@ -345,4 +345,9 @@
   - An intuitive introduction to convergence/limit of a sequence
   - Introducing the number e as a limit of a sequence 
   - Future applications of the exponential function e^(rt)
-  
+- #### Lecture 63 - Applications of Exponential Growth and Decay
+  - [Video](https://youtu.be/J6oYAXiixUQ)
+  - Review e^x and ln(x)
+  - Modeling population growth
+  - Modeling radioactive decay 
+  - How best to think of half life (use a graph!) 
