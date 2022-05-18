@@ -203,7 +203,7 @@
 - #### Homework 47
   - Chapter 12 Section 8 (p. 556)
   - #39
-- #### Homework 47 
+- #### Homework 48 
   - Chapter 12 Section 8 (p. 555-6)
   - #1 - 5 odd
   - #23 - 37 odd 
