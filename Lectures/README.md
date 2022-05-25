@@ -351,3 +351,8 @@
   - Modeling population growth
   - Modeling radioactive decay 
   - How best to think of half life (use a graph!) 
+- #### Lecture 64 - More Applications of Exponential Functions and a Nifty Trick 
+  - [Video](https://youtu.be/49WYBbVd19Y)
+  - Radioactive carbon dating (a slightly deeper look than given by the book) 
+  - Homework problem #29 (on radioactive carbon dating)
+  - A nifty trick to turn any exponential function a^(x) into e^(kx)
