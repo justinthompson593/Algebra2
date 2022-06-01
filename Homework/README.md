@@ -207,3 +207,5 @@
   - Chapter 12 Section 8 (p. 555-6)
   - #1 - 5 odd
   - #23 - 37 odd 
+- #### Homework 49 
+  - [Link](https://github.com/justinthompson593/Algebra2/blob/9b6059b5fe80607b6b5993645c61d4f3d1d7e930/Homework/Homework49.pdf) to Homework49.pdf
