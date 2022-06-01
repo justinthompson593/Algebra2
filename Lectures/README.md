@@ -356,3 +356,9 @@
   - Radioactive carbon dating (a slightly deeper look than given by the book) 
   - Homework problem #29 (on radioactive carbon dating)
   - A nifty trick to turn any exponential function a^(x) into e^(kx)
+- #### Lecture 65 - Graphing Polynomials in General
+  - [Video](https://youtu.be/GKnga4di4zI)
+  - Analysis of highest and lowest order terms
+  - When do graphs "go through" zeros and when do they "bounce back" 
+  - How to make a qualitatively accurate graph of a polynomial 
+  - (Part of this lecture is missing) 
