@@ -5,7 +5,7 @@
 - #### Homework 1
   - Finding equations of lines perpendicular to a given line and going through a given point
   - [Written](https://github.com/justinthompson593/Algebra2/blob/78393113a81279049bf65496089e5728d10c5674/Homework/Homework1.pdf) assignment
-  - [Solutions](https://github.com/justinthompson593/Algebra2/blob/3cb81e0fe64798bb6fed1b3be985c47729b05571/Homework/Homework1Solutions.pdf)
+  - [Solutions](https://github.com/justinthompson593/Algebra2/blob/aa53c20e5de6bce060624d2b0218f49d5a7bc279/Homework/Homework1Solutions.pdf)
 - #### Homework 2
   - Chapter 4 Section 4 Exercises (p. 178-9) 
   - #1 - #19 odd, #23, #25, and #28
